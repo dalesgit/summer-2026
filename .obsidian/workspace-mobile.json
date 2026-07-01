@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "76cbfbc52e6302e3",
+        "id": "3187c193d0b5cc3d",
         "type": "tabs",
         "children": [
           {
-            "id": "0a689c428b7be012",
+            "id": "70e9b1520afa4252",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index one.md",
+                "file": "journal/2026-07-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index one"
-            }
-          },
-          {
-            "id": "8b34a625ec26b4b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Share files to nearby devices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Share files to nearby devices"
+              "title": "2026-07-01"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Index one.md",
+            "file": "journal/2026-07-01.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,9 +153,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "e7e9cb8c90050bee",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +175,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "8b34a625ec26b4b8",
+  "active": "70e9b1520afa4252",
   "lastOpenFiles": [
+    "Templates/journal-template-sample.md",
+    "journal/2026-07-01.md",
+    "journal",
+    "Templates",
+    "Index.md",
+    "Slurped Pages/The American Revolution Through the Eyes of Seven Everyday Founders.md",
+    "Slurped Pages/GitHub - adi1090xtermux-style - Simple script to change color-schemes and fonts for Termux..md",
+    "Slurped Pages/slurp obsidian how to.md",
+    "Slurped Pages",
+    "Share files to nearby devices.md",
     "Index one.md",
     "This would be from iphone.md"
   ]

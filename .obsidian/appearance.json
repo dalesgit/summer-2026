@@ -1,1 +1,6 @@
-{}
+{
+  "interfaceFontFamily": "Baskerville",
+  "textFontFamily": "Baskerville",
+  "monospaceFontFamily": "Source Code Pro",
+  "baseFontSize": 18
+}
