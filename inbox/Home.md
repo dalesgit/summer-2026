@@ -1,0 +1,8 @@
+![[assets/bishops-province8-mokuleia-full-moon.jpg]]
+
+```dataview
+TABLE dateformat(file.mtime, "dd.MM.yyyy HH:mm") AS "Last created"
+FROM ""
+SORT file.ctime DESC
+LIMIT 25   
+```

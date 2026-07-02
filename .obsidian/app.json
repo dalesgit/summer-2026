@@ -5,5 +5,5 @@
   "attachmentFolderPath": "assets",
   "newFileLocation": "folder",
   "newFileFolderPath": "inbox",
-  "openBehavior": "file:Index"
+  "openBehavior": "file:inbox/Home"
 }
