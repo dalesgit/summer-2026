@@ -5,5 +5,9 @@
   "attachmentFolderPath": "assets",
   "newFileLocation": "folder",
   "newFileFolderPath": "inbox",
-  "openBehavior": "file:inbox/Trump’s sweeping changes to student loans take effect July 1. Here’s what they mean for you"
+<<<<<<< HEAD
+  "openBehavior": "file:Index"
+=======
+  "openBehavior": "file:inbox/Home"
+>>>>>>> a0f85cbbe4d5626b126b7877b2fa210777122a32
 }
