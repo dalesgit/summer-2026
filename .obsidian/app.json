@@ -4,5 +4,6 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "assets",
   "newFileLocation": "folder",
-  "newFileFolderPath": "inbox"
+  "newFileFolderPath": "inbox",
+  "openBehavior": "file:Index"
 }
