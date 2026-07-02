@@ -1,1 +1,0 @@
-[Trump’s sweeping changes to student loans take effect July 1. Here’s what they mean for you | CNN Business](https://www.cnn.com/2026/07/01/business/trump-student-loans)
