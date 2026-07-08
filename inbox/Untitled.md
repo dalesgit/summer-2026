@@ -1,0 +1,1 @@
+https://www.nytimes.com/2026/07/06/opinion/jewish-america-identity.html?smid=nytcore-ios-share
