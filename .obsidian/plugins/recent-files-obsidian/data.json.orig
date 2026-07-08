@@ -1,0 +1,57 @@
+{
+  "recentFiles": [
+    {
+<<<<<<< HEAD
+      "basename": "Home",
+      "path": "inbox/Home.md"
+=======
+      "basename": "2026-07-01",
+      "path": "journal/2026-07-01.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Index.md"
+>>>>>>> ba7451872df070fa7072389101161ca9f3164834
+    },
+    {
+      "basename": "Trump’s sweeping changes to student loans take effect July 1. Here’s what they mean for you",
+      "path": "inbox/Trump’s sweeping changes to student loans take effect July 1. Here’s what they mean for you.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Index.md"
+    },
+    {
+      "basename": "This would be from iphone",
+      "path": "This would be from iphone.md"
+    },
+    {
+      "basename": "2026-07-01",
+      "path": "inbox/2026-07-01.md"
+    },
+    {
+      "basename": "The American Revolution Through the Eyes of Seven Everyday Founders",
+      "path": "Slurped Pages/The American Revolution Through the Eyes of Seven Everyday Founders.md"
+    },
+    {
+      "basename": "Trump’s sweeping changes to student loans take effect July 1. Here’s what they mean for you",
+      "path": "inbox/Trump’s sweeping changes to student loans take effect July 1. Here’s what they mean for you.md"
+    },
+    {
+      "basename": "journal-template-sample",
+      "path": "Templates/journal-template-sample.md"
+    },
+    {
+      "basename": "GitHub - adi1090xtermux-style - Simple script to change color-schemes and fonts for Termux.",
+      "path": "Slurped Pages/GitHub - adi1090xtermux-style - Simple script to change color-schemes and fonts for Termux..md"
+    },
+    {
+      "basename": "slurp obsidian how to",
+      "path": "Slurped Pages/slurp obsidian how to.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

@@ -19,10 +19,7 @@ slurped: 2026-06-30T23:07
 title: The American Revolution Through the Eyes of Seven Everyday Founders
 ---
 
-[](https://www.nytimes.com/section/magazine)
-
-![The Revolution Through the Eyes of Seven Everyday Founders](https://static01.nytimes.com/newsgraphics/bk-qlOp_CuWxSRYlQ/8VbnH9LXpmB3cVdVInAbprQxuMw/_big_assets/svgs/landingpage-hed.svg)
-
+> The (svg) graphics are dynamic and interactive and dramatic
 ##### Visions of America
 
 In the 50 years since the bicentennial, the last major celebration of the nation’s birth, our knowledge of the American Revolution has radically expanded. The founding fathers remain the central figures. But since the 1970s, historians have uncovered the fascinating, dramatic lives of many other players whose contributions were previously overlooked or lost in the archives.
