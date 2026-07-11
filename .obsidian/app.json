@@ -1,1 +1,10 @@
-{}
+{
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox",
+  "openBehavior": "file:Index"
+  "openBehavior": "file:inbox/Home"
+}
