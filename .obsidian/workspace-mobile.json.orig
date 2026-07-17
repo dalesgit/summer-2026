@@ -13,7 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Slurped Pages/4 Things to Do After 5 PM If You Have High Cholesterol.md",
+=======
                 "file": "Index.md",
                 "mode": "preview",
                 "source": false
@@ -21,6 +23,7 @@
               "icon": "lucide-file",
               "title": "Index"
                 "file": "Clippings/I revived a 15-year-old laptop with an OS that runs entirely in memory.md",
+>>>>>>> d6ed3b09527298b540df8232119efb486a424dae
                 "mode": "source",
                 "source": false
               },
