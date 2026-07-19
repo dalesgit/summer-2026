@@ -1,13 +1,14 @@
 ---
-title: "Quote of the Day by Plato, \"If women are expected to do the same work as men, we must teach men.....”"
-source: "https://timesofindia.indiatimes.com/life-style/books/features/quote-of-the-day-by-plato-if-women-are-expected-to-do-the-same-work-as-men-we-must-teach-men-/articleshow/132482505.cms"
+title: Quote of the Day by Plato, "If women are expected to do the same work as men, we must teach men.....”
+source: https://timesofindia.indiatimes.com/life-style/books/features/quote-of-the-day-by-plato-if-women-are-expected-to-do-the-same-work-as-men-we-must-teach-men-/articleshow/132482505.cms
 author:
   - "[[TOI Lifestyle Desk]]"
 published: 2026-07-18
 created: 2026-07-19
-description: "Plato's philosophy is timeless and relevant for every age. More than 2300 years after his death Plato remains one of the most influential thinkers in ."
+description: Plato's philosophy is timeless and relevant for every age. More than 2300 years after his death Plato remains one of the most influential thinkers in .
 tags:
-  - "clippings"
+  - living
+  - wisdom
 ---
 Plato's philosophy is timeless and relevant for every age. More than 2300 years after his death Plato remains one of the most influential thinkers in the history of humankind. His ideas shaped philosophy, politics, education, ethics, science and even religion.  
 All students of philosophy eventually come across Plato, not only because of his genius as a thinker, but because of the questions he asked, which are profoundly relevant today: Justice is the notion of moral rightness based upon ethics, rationality, law, equity, fairness and religion. It also includes the fair and equitable enforcement of laws (judicial systems and due process of law). Justice is also the idea of fairness and moral rightness which is used to guide behaviour and decision making. What makes a good society? Can knowledge improve us as human beings? What is the purpose of schooling? How shall leaders be selected?  

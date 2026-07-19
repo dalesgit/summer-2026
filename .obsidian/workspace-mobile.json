@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Quote of the Day by Plato, If women are expected to do the same work as men, we must teach men.....”.md",
+                "file": "Clippings/How I Lost Faith in Google.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quote of the Day by Plato, If women are expected to do the same work as men, we must teach men.....”"
+              "title": "How I Lost Faith in Google"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Clippings/Quote of the Day by Plato, If women are expected to do the same work as men, we must teach men.....”.md",
+            "file": "Clippings/How I Lost Faith in Google.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Clippings/Quote of the Day by Plato, If women are expected to do the same work as men, we must teach men.....”.md",
+            "file": "Clippings/How I Lost Faith in Google.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Clippings/Quote of the Day by Plato, If women are expected to do the same work as men, we must teach men.....”.md",
+            "file": "Clippings/How I Lost Faith in Google.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -182,6 +182,8 @@
   },
   "active": "876f2addabb41443",
   "lastOpenFiles": [
-    "Clippings/Quote of the Day by Plato, If women are expected to do the same work as men, we must teach men.....”.md"
+    "Clippings/How I Lost Faith in Google.md",
+    "Clippings/Quote of the Day by Plato, If women are expected to do the same work as men, we must teach men.....”.md",
+    "Clippings/Healthcare costs associated with aging out of reach for many Americans.md"
   ]
 }
