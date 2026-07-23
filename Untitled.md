@@ -1,0 +1,1 @@
+https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html?smid=nytcore-ios-share
