@@ -1,24 +1,34 @@
 {
   "main": {
-    "id": "48e3344405eb3316",
+    "id": "93febb0836cd01f9",
     "type": "split",
     "children": [
       {
-        "id": "87d6c5f40e1f5e80",
+        "id": "1df6622dbee01515",
         "type": "tabs",
         "children": [
           {
-            "id": "876f2addabb41443",
+            "id": "77d11bc7cff199d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/How I Lost Faith in Google.md",
+<<<<<<< HEAD
+                "file": "Slurped Pages/4 Things to Do After 5 PM If You Have High Cholesterol.md",
+=======
+                "file": "Index.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+                "file": "Clippings/I revived a 15-year-old laptop with an OS that runs entirely in memory.md",
+>>>>>>> d6ed3b09527298b540df8232119efb486a424dae
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How I Lost Faith in Google"
+              "title": "4 Things to Do After 5 PM If You Have High Cholesterol"
             }
           }
         ]
@@ -27,16 +37,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "91633b16fc19f277",
+    "id": "359daf325145718c",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "56ac9690fa86f691",
+        "id": "c1c22efa7801a0ba",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byModifiedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -44,7 +54,7 @@
         }
       },
       {
-        "id": "899473f183edc753",
+        "id": "6dcc77b6217a0039",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +71,7 @@
         }
       },
       {
-        "id": "e8b502c61fdd23d6",
+        "id": "f405ebff51c6c43a",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +86,7 @@
         }
       },
       {
-        "id": "c30b49a6abe0a98d",
+        "id": "8f1a9e4ef2864f27",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -90,7 +100,7 @@
         }
       },
       {
-        "id": "d52e123578e9efcd",
+        "id": "485d095649721827",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -103,16 +113,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "6b57011ba64ea98d",
+    "id": "4a16864ead235206",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "1cf5090a8fefec13",
+        "id": "7b286c4e52e7dc09",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Clippings/How I Lost Faith in Google.md",
+            "file": "journal/2026-07-01.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,12 +136,12 @@
         }
       },
       {
-        "id": "fda3e0915312ec74",
+        "id": "d8370ff768fd6a00",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Clippings/How I Lost Faith in Google.md",
+            "file": "Index one.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -140,12 +150,12 @@
         }
       },
       {
-        "id": "1eb8dfcffd7cef52",
+        "id": "fc0bd7f8b158a79a",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Clippings/How I Lost Faith in Google.md",
+            "file": "Index one.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -155,7 +165,7 @@
         }
       },
       {
-        "id": "d52b2192e52f66a9",
+        "id": "e7e9cb8c90050bee",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -163,9 +173,21 @@
           "icon": "calendar-with-checkmark",
           "title": "Calendar"
         }
+      },
+      {
+        "id": "976226b7850ccd85",
+        "type": "leaf",
+        "state": {
+          "type": "footnotes",
+          "state": {
+            "file": "inbox/Trump’s sweeping changes to student loans take effect July 1. Here’s what they mean for you.md"
+          },
+          "icon": "lucide-file-signature",
+          "title": "Footnotes"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,14 +198,39 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "876f2addabb41443",
+  "active": "77d11bc7cff199d4",
   "lastOpenFiles": [
-    "Clippings/How I Lost Faith in Google.md",
-    "Clippings/Quote of the Day by Plato, If women are expected to do the same work as men, we must teach men.....”.md",
-    "Clippings/Healthcare costs associated with aging out of reach for many Americans.md"
+    "Index-home.md",
+    "Slurped Pages/4 Things to Do After 5 PM If You Have High Cholesterol.md",
+    "Clippings/I switched to an open-source notes app for 2 weeks, and I wish I had done it sooner.md",
+    "Clippings/I revived a 15-year-old laptop with an OS that runs entirely in memory.md",
+    "Clippings/Mike Wallace, Who Wrote a Radical History of New York, Dies at 83.md",
+    "Clippings/Welcome Home by Joel McKerrow - Creativity Series.md",
+    "Clippings/Instant Pot 15 Bean Soup (No Pre-Soaking!) Valerie's Kitchen.md",
+    "inbox/Home.md",
+    "Clippings/‘All men are created equal’ America has lost its values. It’s time to go back to the founding text 1.md",
+    "Clippings/Long Before The Incas, Another Empire Ruled The Andes. We're Only Now Piecing Together Who They Were.md",
+    "Clippings/‘All men are created equal’ America has lost its values. It’s time to go back to the founding text.md",
+    "journal/2026-07-02.md",
+    "journal/2026-07-01.md",
+    "Clippings/The Founding Father Who Sought a Last-Minute Deal to Avert the Revolution.md",
+    "Clippings",
+    "Index.md",
+    "inbox/Trump’s sweeping changes to student loans take effect July 1. Here’s what they mean for you.md",
+    "Index.md",
+    "inbox/Trump’s sweeping changes to student loans take effect July 1. Here’s what they mean for you.md",
+    "Templates/journal-template-sample.md",
+    "journal",
+    "Templates",
+    "Slurped Pages/The American Revolution Through the Eyes of Seven Everyday Founders.md",
+    "Slurped Pages/GitHub - adi1090xtermux-style - Simple script to change color-schemes and fonts for Termux..md",
+    "Slurped Pages/slurp obsidian how to.md",
+    "Slurped Pages",
+    "Share files to nearby devices.md",
+    "Index one.md",
+    "This would be from iphone.md"
   ]
 }

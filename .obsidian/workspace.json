@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2026-07-01.md",
+                "file": "Clippings/I switched to an open-source notes app for 2 weeks, and I wish I had done it sooner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-01"
+              "title": "I switched to an open-source notes app for 2 weeks, and I wish I had done it sooner"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Recent files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,14 +198,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e11dd6e54918f3ec",
   "lastOpenFiles": [
+    "Clippings/‘All men are created equal’ America has lost its values. It’s time to go back to the founding text 1.md",
+    "Clippings/‘All men are created equal’ America has lost its values. It’s time to go back to the founding text.md",
+    "journal/2026-07-01.md",
     "Index-home.md",
     "inbox/Home.md",
-    "journal/2026-07-01.md",
     "This would be from iphone.md",
     "inbox/2026-07-01.md",
     "assets/Pasted image 20260203202837.jpg",
