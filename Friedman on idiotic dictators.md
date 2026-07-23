@@ -1,0 +1,1 @@
+https://www.nytimes.com/2026/07/21/opinion/trump-netanyahu-putin-war.html?smid=nytcore-ios-share
