@@ -1,31 +1,24 @@
 {
   "main": {
-    "id": "4ab31488e2050991",
+    "id": "e0255902601c5444",
     "type": "split",
     "children": [
       {
-        "id": "a34460d8bf355e26",
+        "id": "6fb980e05e1a3d28",
         "type": "tabs",
         "children": [
           {
-            "id": "b0cf1afc3eaacbf9",
-        "id": "eb75005891f21d70",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cc20551ed0369c75",
+            "id": "9857349a66f3bc6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Viktor Frankl, Carl Jung, and Alan Watts All Discovered the Same 5 Rules for Living—Almost Nobody Lives by Them.md",
-                "file": "Friedman on idiotic dictators.md",
+                "file": "mathematics proof.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Viktor Frankl, Carl Jung, and Alan Watts All Discovered the Same 5 Rules for Living—Almost Nobody Lives by Them"
-              "title": "Friedman on idiotic dictators"
+              "title": "mathematics proof"
             }
           }
         ]
@@ -34,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e8bab91b082700dd",
+    "id": "bb436392a1fb56ed",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "1a577a3eb1aed891",
+        "id": "12711a9d688f2b68",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -51,12 +44,12 @@
         }
       },
       {
-        "id": "4e0d954de766bb94",
+        "id": "6bdf4fb1b36ffa7b",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:living",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -68,7 +61,7 @@
         }
       },
       {
-        "id": "4df9bd891e166327",
+        "id": "20844270e5f4fe94",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -83,7 +76,7 @@
         }
       },
       {
-        "id": "5c8c18f9eb603b5d",
+        "id": "1dee27f955dadaa6",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -97,7 +90,7 @@
         }
       },
       {
-        "id": "cb31d8d50b470274",
+        "id": "717fb86a5124c573",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -107,19 +100,19 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
-    "id": "35b01706456311f5",
+    "id": "f031f3b50f738616",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "3a1604c13053e896",
+        "id": "43fb4a235ee611b2",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Friedman on idiotic dictators.md",
+            "file": "mathematics proof.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,12 +126,12 @@
         }
       },
       {
-        "id": "5d14e805c61954be",
+        "id": "ff496f36a6261a10",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Gen Z Has Lost Its Ambition. Maybe It’s Found Something Better..md",
+            "file": "mathematics proof.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -147,12 +140,12 @@
         }
       },
       {
-        "id": "e5fd13392de2f22e",
+        "id": "7a6f88b97cded95c",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Gen Z Has Lost Its Ambition. Maybe It’s Found Something Better..md",
+            "file": "mathematics proof.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -162,7 +155,7 @@
         }
       },
       {
-        "id": "e6ed9518d45b0abe",
+        "id": "88930e16982781a3",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -176,7 +169,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,20 +176,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "899473f183edc753",
+  "active": "9857349a66f3bc6b",
   "lastOpenFiles": [
-    "Clippings/Viktor Frankl, Carl Jung, and Alan Watts All Discovered the Same 5 Rules for Living—Almost Nobody Lives by Them.md",
-    "Clippings/Reading a 3,000-Year-Old Poem to a 3-Year-Old Boy.md",
-    "Clippings/Aging.md",
-  "active": "cc20551ed0369c75",
-  "lastOpenFiles": [
-    "Gen Z Has Lost Its Ambition. Maybe It’s Found Something Better..md",
-    "Clippings/How I Lost Faith in Google.md",
-    "Clippings/Quote of the Day by Plato, If women are expected to do the same work as men, we must teach men.....”.md",
-    "Clippings/Healthcare costs associated with aging out of reach for many Americans.md",
-    "Slurped Pages/4 Things to Do After 5 PM If You Have High Cholesterol.md"
+    "mathematics proof.md"
   ]
 }
