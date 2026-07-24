@@ -1,34 +1,40 @@
 {
   "main": {
-    "id": "93febb0836cd01f9",
+    "id": "4ab31488e2050991",
     "type": "split",
     "children": [
       {
-        "id": "1df6622dbee01515",
+<<<<<<< HEAD
+        "id": "a34460d8bf355e26",
         "type": "tabs",
         "children": [
           {
-            "id": "77d11bc7cff199d4",
+            "id": "b0cf1afc3eaacbf9",
+=======
+        "id": "eb75005891f21d70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc20551ed0369c75",
+>>>>>>> 3df3a4592dfc2c3407e73bf058c408941d885242
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
 <<<<<<< HEAD
-                "file": "Slurped Pages/4 Things to Do After 5 PM If You Have High Cholesterol.md",
+                "file": "Clippings/Viktor Frankl, Carl Jung, and Alan Watts All Discovered the Same 5 Rules for Living—Almost Nobody Lives by Them.md",
 =======
-                "file": "Index.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Index"
-                "file": "Clippings/I revived a 15-year-old laptop with an OS that runs entirely in memory.md",
->>>>>>> d6ed3b09527298b540df8232119efb486a424dae
+                "file": "Friedman on idiotic dictators.md",
+>>>>>>> 3df3a4592dfc2c3407e73bf058c408941d885242
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 Things to Do After 5 PM If You Have High Cholesterol"
+<<<<<<< HEAD
+              "title": "Viktor Frankl, Carl Jung, and Alan Watts All Discovered the Same 5 Rules for Living—Almost Nobody Lives by Them"
+=======
+              "title": "Friedman on idiotic dictators"
+>>>>>>> 3df3a4592dfc2c3407e73bf058c408941d885242
             }
           }
         ]
@@ -37,16 +43,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "359daf325145718c",
+    "id": "e8bab91b082700dd",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c1c22efa7801a0ba",
+        "id": "1a577a3eb1aed891",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime",
+            "sortOrder": "alphabetical",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -54,12 +60,12 @@
         }
       },
       {
-        "id": "6dcc77b6217a0039",
+        "id": "4e0d954de766bb94",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:living",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -71,7 +77,7 @@
         }
       },
       {
-        "id": "f405ebff51c6c43a",
+        "id": "4df9bd891e166327",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -86,7 +92,7 @@
         }
       },
       {
-        "id": "8f1a9e4ef2864f27",
+        "id": "5c8c18f9eb603b5d",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -100,7 +106,7 @@
         }
       },
       {
-        "id": "485d095649721827",
+        "id": "cb31d8d50b470274",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -110,19 +116,22 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
-    "id": "4a16864ead235206",
+    "id": "35b01706456311f5",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "7b286c4e52e7dc09",
+        "id": "3a1604c13053e896",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journal/2026-07-01.md",
+<<<<<<< HEAD
+=======
+            "file": "Friedman on idiotic dictators.md",
+>>>>>>> 3df3a4592dfc2c3407e73bf058c408941d885242
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,12 +145,15 @@
         }
       },
       {
-        "id": "d8370ff768fd6a00",
+        "id": "5d14e805c61954be",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Index one.md",
+<<<<<<< HEAD
+=======
+            "file": "Gen Z Has Lost Its Ambition. Maybe It’s Found Something Better..md",
+>>>>>>> 3df3a4592dfc2c3407e73bf058c408941d885242
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -150,12 +162,15 @@
         }
       },
       {
-        "id": "fc0bd7f8b158a79a",
+        "id": "e5fd13392de2f22e",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Index one.md",
+<<<<<<< HEAD
+=======
+            "file": "Gen Z Has Lost Its Ambition. Maybe It’s Found Something Better..md",
+>>>>>>> 3df3a4592dfc2c3407e73bf058c408941d885242
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -165,7 +180,7 @@
         }
       },
       {
-        "id": "e7e9cb8c90050bee",
+        "id": "e6ed9518d45b0abe",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -173,24 +188,13 @@
           "icon": "calendar-with-checkmark",
           "title": "Calendar"
         }
-      },
-      {
-        "id": "976226b7850ccd85",
-        "type": "leaf",
-        "state": {
-          "type": "footnotes",
-          "state": {
-            "file": "inbox/Trump’s sweeping changes to student loans take effect July 1. Here’s what they mean for you.md"
-          },
-          "icon": "lucide-file-signature",
-          "title": "Footnotes"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -201,36 +205,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "77d11bc7cff199d4",
+<<<<<<< HEAD
+  "active": "899473f183edc753",
   "lastOpenFiles": [
-    "Index-home.md",
-    "Slurped Pages/4 Things to Do After 5 PM If You Have High Cholesterol.md",
-    "Clippings/I switched to an open-source notes app for 2 weeks, and I wish I had done it sooner.md",
-    "Clippings/I revived a 15-year-old laptop with an OS that runs entirely in memory.md",
-    "Clippings/Mike Wallace, Who Wrote a Radical History of New York, Dies at 83.md",
-    "Clippings/Welcome Home by Joel McKerrow - Creativity Series.md",
-    "Clippings/Instant Pot 15 Bean Soup (No Pre-Soaking!) Valerie's Kitchen.md",
-    "inbox/Home.md",
-    "Clippings/‘All men are created equal’ America has lost its values. It’s time to go back to the founding text 1.md",
-    "Clippings/Long Before The Incas, Another Empire Ruled The Andes. We're Only Now Piecing Together Who They Were.md",
-    "Clippings/‘All men are created equal’ America has lost its values. It’s time to go back to the founding text.md",
-    "journal/2026-07-02.md",
-    "journal/2026-07-01.md",
-    "Clippings/The Founding Father Who Sought a Last-Minute Deal to Avert the Revolution.md",
-    "Clippings",
-    "Index.md",
-    "inbox/Trump’s sweeping changes to student loans take effect July 1. Here’s what they mean for you.md",
-    "Index.md",
-    "inbox/Trump’s sweeping changes to student loans take effect July 1. Here’s what they mean for you.md",
-    "Templates/journal-template-sample.md",
-    "journal",
-    "Templates",
-    "Slurped Pages/The American Revolution Through the Eyes of Seven Everyday Founders.md",
-    "Slurped Pages/GitHub - adi1090xtermux-style - Simple script to change color-schemes and fonts for Termux..md",
-    "Slurped Pages/slurp obsidian how to.md",
-    "Slurped Pages",
-    "Share files to nearby devices.md",
-    "Index one.md",
-    "This would be from iphone.md"
+    "Clippings/Viktor Frankl, Carl Jung, and Alan Watts All Discovered the Same 5 Rules for Living—Almost Nobody Lives by Them.md",
+    "Clippings/Reading a 3,000-Year-Old Poem to a 3-Year-Old Boy.md",
+    "Clippings/Aging.md",
+=======
+  "active": "cc20551ed0369c75",
+  "lastOpenFiles": [
+    "Gen Z Has Lost Its Ambition. Maybe It’s Found Something Better..md",
+>>>>>>> 3df3a4592dfc2c3407e73bf058c408941d885242
+    "Clippings/How I Lost Faith in Google.md",
+    "Clippings/Quote of the Day by Plato, If women are expected to do the same work as men, we must teach men.....”.md",
+    "Clippings/Healthcare costs associated with aging out of reach for many Americans.md",
+    "Slurped Pages/4 Things to Do After 5 PM If You Have High Cholesterol.md"
   ]
 }
