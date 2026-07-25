@@ -1,26 +1,24 @@
 {
   "main": {
-    "id": "e0255902601c5444",
+    "id": "511055dcaf3ffb48",
     "type": "split",
     "children": [
       {
-        "id": "1f54680a2b16874a",
+        "id": "7f48ae420b316f3a",
         "type": "tabs",
         "children": [
           {
-            "id": "407734dc5ae0efdc",
+            "id": "bdb68e8299d3a05e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source The Conversation.md",
-                "file": "journal/2026-07-25.md",
+                "file": "Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Source The Conversation"
-              "title": "2026-07-25"
+              "title": "Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready"
             }
           }
         ]
@@ -29,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bb436392a1fb56ed",
+    "id": "d98c7217cd4f2f33",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "12711a9d688f2b68",
+        "id": "544acfb17284d557",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -46,7 +44,7 @@
         }
       },
       {
-        "id": "6bdf4fb1b36ffa7b",
+        "id": "ebc763813ff5396c",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -63,7 +61,7 @@
         }
       },
       {
-        "id": "20844270e5f4fe94",
+        "id": "8766adddfd475651",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -78,7 +76,7 @@
         }
       },
       {
-        "id": "1dee27f955dadaa6",
+        "id": "9f133c1463b55b40",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -92,7 +90,7 @@
         }
       },
       {
-        "id": "717fb86a5124c573",
+        "id": "95feab92a6e15a84",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -105,16 +103,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "f031f3b50f738616",
+    "id": "d9703f0ff7dba823",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "43fb4a235ee611b2",
+        "id": "4dc5158cce911911",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "mathematics proof.md",
+            "file": "Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,12 +126,12 @@
         }
       },
       {
-        "id": "ff496f36a6261a10",
+        "id": "9889bf43c46923a4",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "mathematics proof.md",
+            "file": "Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -142,12 +140,12 @@
         }
       },
       {
-        "id": "7a6f88b97cded95c",
+        "id": "0a8d102a11ab7b28",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "mathematics proof.md",
+            "file": "Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -157,7 +155,7 @@
         }
       },
       {
-        "id": "88930e16982781a3",
+        "id": "6336f2e3e7bade3f",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -167,7 +165,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,19 +180,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "407734dc5ae0efdc",
+  "active": "bdb68e8299d3a05e",
   "lastOpenFiles": [
-    "This would be from iphone.md",
-    "Source The Conversation.md",
-    "Untitled.md",
-    "mathematics proof.md"
-    "Untitled.md",
-    "journal/2026-07-25.md",
-    "Slurped Pages/Education Department removes antidiscrimination rule (1).md",
-    "Slurped Pages/Education Department removes antidiscrimination rule.md",
-    "inbox/Untitled.md",
-    "Untitled 1.md",
-    "mathematics proof.md",
-    "Clippings/Four types of thinker have been identified. Which one are you.md"
+    "Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready.md"
   ]
 }
