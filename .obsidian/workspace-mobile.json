@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mathematics proof.md",
+                "file": "Source The Conversation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mathematics proof"
+              "title": "Source The Conversation"
             }
           }
         ]
@@ -182,6 +182,9 @@
   },
   "active": "9857349a66f3bc6b",
   "lastOpenFiles": [
+    "This would be from iphone.md",
+    "Source The Conversation.md",
+    "Untitled.md",
     "mathematics proof.md"
   ]
 }
