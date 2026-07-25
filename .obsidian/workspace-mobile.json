@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6fb980e05e1a3d28",
+        "id": "199bb960592b6c32",
         "type": "tabs",
         "children": [
           {
-            "id": "9857349a66f3bc6b",
+            "id": "19e2374e1dc4fbe2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mathematics proof.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "mathematics proof"
+              "title": "New tab"
             }
           }
         ]
@@ -180,8 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9857349a66f3bc6b",
+  "active": "19e2374e1dc4fbe2",
   "lastOpenFiles": [
-    "mathematics proof.md"
+    "mathematics proof.md",
+    "Clippings/Four types of thinker have been identified. Which one are you.md"
   ]
 }
