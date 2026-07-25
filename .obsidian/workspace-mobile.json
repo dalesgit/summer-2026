@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "199bb960592b6c32",
+        "id": "1f54680a2b16874a",
         "type": "tabs",
         "children": [
           {
-            "id": "19e2374e1dc4fbe2",
+            "id": "407734dc5ae0efdc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "journal/2026-07-25.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-07-25"
             }
           }
         ]
@@ -176,9 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19e2374e1dc4fbe2",
+  "active": "407734dc5ae0efdc",
   "lastOpenFiles": [
     "Untitled.md",
+    "journal/2026-07-25.md",
+    "Slurped Pages/Education Department removes antidiscrimination rule (1).md",
+    "Slurped Pages/Education Department removes antidiscrimination rule.md",
     "inbox/Untitled.md",
     "Untitled 1.md",
     "mathematics proof.md",
