@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready.md",
+                "file": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready"
+              "title": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years"
             }
           }
         ]
@@ -36,7 +36,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byModifiedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready.md",
+            "file": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,6 +182,8 @@
   },
   "active": "bdb68e8299d3a05e",
   "lastOpenFiles": [
-    "Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready.md"
+    "Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready.md",
+    "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years.md",
+    "Source Google News.md"
   ]
 }
