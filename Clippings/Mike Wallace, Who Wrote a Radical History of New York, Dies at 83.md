@@ -1,13 +1,14 @@
 ---
-title: "Mike Wallace, Who Wrote a Radical History of New York, Dies at 83"
-source: "https://www.nytimes.com/2026/07/05/books/mike-wallace-dead.html"
+title: Mike Wallace, Who Wrote a Radical History of New York, Dies at 83
+source: https://www.nytimes.com/2026/07/05/books/mike-wallace-dead.html
 author:
   - "[[Sam Roberts]]"
 published: 2026-07-05
 created: 2026-07-05
-description: "His 1998 book, “Gotham,” which told the city’s story to 1898, focused on social and economic conflict. It won a Pulitzer Prize and inspired two sequels."
+description: His 1998 book, “Gotham,” which told the city’s story to 1898, focused on social and economic conflict. It won a Pulitzer Prize and inspired two sequels.
 tags:
-  - "clippings"
+  - slurp/History
+  - radical
 ---
 Mike Wallace, a self-proclaimed radical historian whose magisterial, unvarnished biography of New York, “Gotham,” written with Edwin G. Burrows, won the Pulitzer Prize and inspired two more door-stopper volumes about the city, died on Sunday in Mexico City. He was 83.
 

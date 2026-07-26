@@ -1,13 +1,13 @@
 ---
-title: "The Founding Father Who Sought a Last-Minute Deal to Avert the Revolution"
-source: "https://www.nytimes.com/2026/06/30/us/250-american-revolution-john-dickinson.html"
+title: The Founding Father Who Sought a Last-Minute Deal to Avert the Revolution
+source: https://www.nytimes.com/2026/06/30/us/250-american-revolution-john-dickinson.html
 author:
   - "[[Sarah Lyall]]"
 published: 2026-06-30
 created: 2026-07-01
-description: "Recently discovered documents reveal a back-channel attempt by a leader of the Continental Congress to make peace. (He did not succeed.)"
+description: Recently discovered documents reveal a back-channel attempt by a leader of the Continental Congress to make peace. (He did not succeed.)
 tags:
-  - "clippings"
+  - american-identity
 ---
 As the American colonies hurtled closer to revolution in the chaotic, bellicose summer of 1775, one of the founding fathers made a last-ditch, back-channel attempt to find a peaceful resolution to the crisis.
 
