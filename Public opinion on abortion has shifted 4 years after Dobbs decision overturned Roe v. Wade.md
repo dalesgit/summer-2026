@@ -1,0 +1,1 @@
+[Public opinion on abortion has shifted 4 years after Dobbs decision overturned Roe v. Wade](https://theconversation.com/public-opinion-on-abortion-has-shifted-4-years-after-dobbs-decision-overturned-roe-v-wade-285668?utm_medium=article_native_share&utm_source=theconversation.com)
