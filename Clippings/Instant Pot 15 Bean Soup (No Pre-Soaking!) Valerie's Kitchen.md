@@ -7,7 +7,6 @@ published: 2021-02-10
 created: 2026-07-04
 description: Dried beans are cooked to tender perfection in this deliciously seasoned Instant Pot 15 Bean Soup. Old fashioned comfort food at its best!
 tags:
-  - clippings
   - recipes
   - soup
 ---

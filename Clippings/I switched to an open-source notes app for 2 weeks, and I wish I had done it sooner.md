@@ -1,13 +1,14 @@
 ---
-title: "I switched to an open-source notes app for 2 weeks, and I wish I had done it sooner"
-source: "https://www.androidauthority.com/notesnook-open-source-notes-app-hands-on-3682208/"
+title: I switched to an open-source notes app for 2 weeks, and I wish I had done it sooner
+source: https://www.androidauthority.com/notesnook-open-source-notes-app-hands-on-3682208/
 author:
   - "[[Yash Wate]]"
 published: 2026-07-05
 created: 2026-07-05
-description: "Looking for an open-source notes app you'll actually enjoy using? I recently tried Notesnook, and I've been pleasantly surprised."
+description: Looking for an open-source notes app you'll actually enjoy using? I recently tried Notesnook, and I've been pleasantly surprised.
 tags:
-  - "clippings"
+  - note-taking
+  - Android
 ---
 Notesnook is the best free note-taking app I’ve used in a long time.
 
