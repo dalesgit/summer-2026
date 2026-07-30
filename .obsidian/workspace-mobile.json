@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1f7d7397cf81af55",
+        "id": "af1765112460fdf0",
         "type": "tabs",
         "children": [
           {
-            "id": "a1c58c1899f59962",
+            "id": "b50fa9564abe36a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "The Men Who Believed Some Men Are More Equal Than Others.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Men Who Believed Some Men Are More Equal Than Others"
             }
           }
         ]
@@ -173,6 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1c58c1899f59962",
-  "lastOpenFiles": []
+  "active": "b50fa9564abe36a1",
+  "lastOpenFiles": [
+    "The Men Who Believed Some Men Are More Equal Than Others.md",
+    "This Appalachian Memoir Is No Elegy. That’s a Good Thing..md"
+  ]
 }
