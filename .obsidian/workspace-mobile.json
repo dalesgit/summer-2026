@@ -1,34 +1,20 @@
 {
   "main": {
-    "id": "511055dcaf3ffb48",
+    "id": "89ac143ed662434b",
     "type": "split",
     "children": [
       {
-        "id": "fbe0756adc3cda6a",
+        "id": "1f7d7397cf81af55",
         "type": "tabs",
         "children": [
           {
-            "id": "16041c10a7e7d1e8",
-        "id": "7f48ae420b316f3a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bdb68e8299d3a05e",
+            "id": "a1c58c1899f59962",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "file": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "conflict-files-obsidian-git"
-=======
-              "title": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer"
->>>>>>> 61c4b21a548bdb60a5c0b7c2f7737577f4a0ccbf
+              "title": "New tab"
             }
           }
         ]
@@ -37,16 +23,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d98c7217cd4f2f33",
+    "id": "a33b7ab387aa62ae",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "544acfb17284d557",
+        "id": "3ad7dea1f7689817",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime",
+            "sortOrder": "alphabetical",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -54,7 +40,7 @@
         }
       },
       {
-        "id": "ebc763813ff5396c",
+        "id": "3c9f8bf7c08bd105",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -71,7 +57,7 @@
         }
       },
       {
-        "id": "8766adddfd475651",
+        "id": "4e1dd337ddbeab04",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -86,7 +72,7 @@
         }
       },
       {
-        "id": "9f133c1463b55b40",
+        "id": "41d37ff1a1f5bb8e",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -100,7 +86,7 @@
         }
       },
       {
-        "id": "95feab92a6e15a84",
+        "id": "a374a8ced105af1f",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -113,16 +99,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "d9703f0ff7dba823",
+    "id": "ec804ef6b381927b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "4dc5158cce911911",
+        "id": "c2bfc111aaf293b7",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,12 +121,11 @@
         }
       },
       {
-        "id": "9889bf43c46923a4",
+        "id": "a23d91112732b129",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -150,12 +134,11 @@
         }
       },
       {
-        "id": "0a8d102a11ab7b28",
+        "id": "b50b8412eff35f22",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -165,7 +148,7 @@
         }
       },
       {
-        "id": "6336f2e3e7bade3f",
+        "id": "75958e0a1b1dd4d4",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -190,33 +173,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16041c10a7e7d1e8",
-  "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Clippings/Unraveling the climate behind the collapse of Bronze Age civilizations.md",
-    "journal/2026-07-25.md",
-    "Untitled.md",
-    "Slurped Pages/Education Department removes antidiscrimination rule (1).md",
-    "Slurped Pages/Education Department removes antidiscrimination rule.md",
-    "inbox/Untitled.md",
-    "Untitled 1.md",
-    "mathematics proof.md",
-    "Clippings/Four types of thinker have been identified. Which one are you.md"
-  "active": "bdb68e8299d3a05e",
-  "lastOpenFiles": [
-    "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years.md",
-    "Clippings/A Profound Question Haunting Jews Today.md",
-    "Clippings/Public opinion on abortion has shifted 4 years after Dobbs decision overturned Roe v. Wade.md",
-    "/Clippings/The Founding Father Who Sought a Last-Minute Deal to Avert the Revolution.md",
-    "/Clippings/Public opinion on abortion has shifted 4 years after Dobbs decision overturned Roe v. Wade.md",
-    "/Clippings/Mike Wallace, Who Wrote a Radical History of New York, Dies at 83.md",
-    "/Clippings/Long Before The Incas, Another Empire Ruled The Andes. We're Only Now Piecing Together Who They Were.md",
-    "/Clippings/Instant Pot 15 Bean Soup (No Pre-Soaking!) Valerie's Kitchen.md",
-    "/Clippings/I switched to an open-source notes app for 2 weeks, and I wish I had done it sooner.md",
-    "/Clippings/I revived a 15-year-old laptop with an OS that runs entirely in memory.md",
-    "/Clippings/A Profound Question Haunting Jews Today.md",
-    "/Clippings",
-    "Experts Warn The Internet Will Go Down In A Big Way — And You'd Better Be Ready.md",
-    "Source Google News.md"
-  ]
+  "active": "a1c58c1899f59962",
+  "lastOpenFiles": []
 }
