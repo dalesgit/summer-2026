@@ -37,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "byModifiedTime",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -112,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer.md",
+            "file": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,10 +184,12 @@
   },
   "active": "bdb68e8299d3a05e",
   "lastOpenFiles": [
+    "Hitting head start.md",
+    "Untitled.md",
+    "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say.md",
     "journal/2026-07-27.md",
     "inbox/2026-07-01.md",
     "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer.md",
-    "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say.md",
     "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years.md",
     "Clippings/A Profound Question Haunting Jews Today.md",
     "Clippings/Public opinion on abortion has shifted 4 years after Dobbs decision overturned Roe v. Wade.md",
