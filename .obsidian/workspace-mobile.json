@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af1765112460fdf0",
+        "id": "09a7be9ab63b220c",
         "type": "tabs",
         "children": [
           {
-            "id": "b50fa9564abe36a1",
+            "id": "563f13f00a227b17",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -32,8 +32,10 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
-            "autoReveal": false
+            "sortOrder": "byModifiedTime",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -173,8 +175,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b50fa9564abe36a1",
+  "active": "563f13f00a227b17",
   "lastOpenFiles": [
+    "Clippings/The August Coup by Robert Service review – the drink-soaked collapse of the Soviet Union.md",
     "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say.md",
     "The Men Who Believed Some Men Are More Equal Than Others.md",
     "/journal/2026-07-27.md",
