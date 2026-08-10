@@ -11,10 +11,14 @@
             "id": "71f604c30bd21455",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ]
@@ -178,6 +182,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1719b8469155b48",
-  "lastOpenFiles": []
+  "active": "71f604c30bd21455",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md"
+  ]
 }
