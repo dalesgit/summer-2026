@@ -1,9 +1,8 @@
-# Conflicts
+q# Conflicts
 Please resolve them and commit them using the commands `Git: Commit all changes` followed by `Git: Push`
 (This file will automatically be deleted before commit)
 [[#Additional Instructions]] available below file list
 
-- Not a file: .obsidian/workspace-mobile.json
 - Not a file: .obsidian/plugins/recent-files-obsidian/data.json
 
 # Additional Instructions
