@@ -9,7 +9,7 @@ description: "As the US celebrates 250 years, the Declaration of Independence ha
 tags:
   - "clippings"
 ---
-![Illustration of a chaotic scene featuring a fighter jet, a monster truck, fireworks, explosions, and the Declaration of Independence in the center, all decorated with American flag colors and stars](https://i.guim.co.uk/img/media/57e2d01cefcbc7ae7428c406456fe5e997ade2a5/0_2_3360_4197/master/3360.jpg?width=620&dpr=2&s=none&crop=none)
+w![Illustration of a chaotic scene featuring a fighter jet, a monster truck, fireworks, explosions, and the Declaration of Independence in the center, all decorated with American flag colors and stars](https://i.guim.co.uk/img/media/57e2d01cefcbc7ae7428c406456fe5e997ade2a5/0_2_3360_4197/master/3360.jpg?width=620&dpr=2&s=none&crop=none)
 
 Illustration of a chaotic scene featuring a fighter jet, a monster truck, fireworks, explosions, and the Declaration of Independence in the center, all decorated with American flag colors and stars
 
