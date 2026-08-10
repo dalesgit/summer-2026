@@ -1,6 +1,6 @@
 ---
-title: I revived a 15-year-old laptop with an OS that runs entirely in memory
-source: https://www.makeuseof.com/i-revived-a-15-year-old-laptop-with-an-os-that-runs-entirely-in-memory/
+title: "I revived a 15-year-old laptop with an OS that runs entirely in memory"
+source: "https://www.makeuseof.com/i-revived-a-15-year-old-laptop-with-an-os-that-runs-entirely-in-memory/"
 author:
   - "[[Rob LeFebvre]]"
 published: 2026-07-04
@@ -9,6 +9,9 @@ description: 'Skip drive bottlenecks entirely: see how a "Frugal Install" forces
 tags:
   - Linux
   - tech
+description: "Skip drive bottlenecks entirely: see how a \"Frugal Install\" forces a bloated web browser to run directly through pure, volatile memory."
+tags:
+  - "clippings"
 ---
 Every tech fan I know has "the drawer," or "the shelf." That spot in your home that stores all the older laptops that are just too slow to be useful but still too functional to throw away. For me, it's an HP Pavilion m6 from 2012. It's got a legacy AMD A10 processor and a stubborn InsydeH20 BIOS and was choking to death under the weight of modern operating systems. Even a lightweight Linux distro like Zorin OS would run, but generally took its sweet time, likely due to disk-based bottlenecks.
 

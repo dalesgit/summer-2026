@@ -1,38 +1,49 @@
 {
   "main": {
-    "id": "89ac143ed662434b",
+    "id": "456146a07fb8d2d4",
     "type": "split",
     "children": [
       {
-        "id": "0888d93c682d89e8",
+        "id": "1df6622dbee01515",
         "type": "tabs",
         "children": [
           {
-            "id": "29e092102fddba02",
+            "id": "77d11bc7cff199d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Index"
+                "file": "Clippings/I revived a 15-year-old laptop with an OS that runs entirely in memory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "I revived a 15-year-old laptop with an OS that runs entirely in memory"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a33b7ab387aa62ae",
+    "id": "21452b96c7c3a75f",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "3ad7dea1f7689817",
+        "id": "5a0d2adf555004ed",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime",
+            "sortOrder": "alphabetical",
             "autoReveal": false,
             "showSearch": false,
             "searchQuery": ""
@@ -42,7 +53,7 @@
         }
       },
       {
-        "id": "3c9f8bf7c08bd105",
+        "id": "2e72167004bef7be",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -59,7 +70,7 @@
         }
       },
       {
-        "id": "4e1dd337ddbeab04",
+        "id": "3b594bb4e800186f",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -74,7 +85,7 @@
         }
       },
       {
-        "id": "41d37ff1a1f5bb8e",
+        "id": "b6754f5168163215",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -88,11 +99,14 @@
         }
       },
       {
-        "id": "a374a8ced105af1f",
+        "id": "d0702930309e11f3",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {},
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
@@ -101,22 +115,22 @@
     "currentTab": 0
   },
   "right": {
-    "id": "ec804ef6b381927b",
+    "id": "4991b49040f009e5",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c2bfc111aaf293b7",
+        "id": "e1719b8469155b48",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Human evolution.md",
-            "collapseAll": true,
-            "extraContext": true,
+            "file": "conflict-files-obsidian-git.md",
+            "collapseAll": false,
+            "extraContext": false,
             "sortOrder": "alphabetical",
-            "showSearch": true,
+            "showSearch": false,
             "searchQuery": "",
-            "backlinkCollapsed": false,
+            "backlinkCollapsed": true,
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
@@ -124,7 +138,7 @@
         }
       },
       {
-        "id": "a23d91112732b129",
+        "id": "f4bb5c8ba89fa4cf",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -137,7 +151,7 @@
         }
       },
       {
-        "id": "b50b8412eff35f22",
+        "id": "865dede9ea63653c",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -151,7 +165,7 @@
         }
       },
       {
-        "id": "75958e0a1b1dd4d4",
+        "id": "3019d2bdb56090a1",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -161,7 +175,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,23 +190,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29e092102fddba02",
+  "active": "77d11bc7cff199d4",
   "lastOpenFiles": [
-    "They Died, Unrecognized, for Britain.md",
-    "Human evolution.md",
-    "journal/2026-08-07.md",
-    "A Drying Danube River Reveals Nazi-Era Vessels, and Hazards of Heat.md",
-    "Source The Conversation.md",
-    "journal/2026-08-06.md",
-    "U.S. Raises Threat of Steep Water Cuts in Lower Colorado River Basin.md",
-    "Clippings/The August Coup by Robert Service review – the drink-soaked collapse of the Soviet Union.md",
-    "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say.md",
-    "The Men Who Believed Some Men Are More Equal Than Others.md",
-    "/journal/2026-07-27.md",
-    "journal/2026-07-27.md",
-    "/journal",
-    "/Berlin Pride Event Attacker Killed in Police Shootout, Officials Say.md",
-    "/Clippings",
-    "This Appalachian Memoir Is No Elegy. That’s a Good Thing..md"
+    "Clippings/I switched to an open-source notes app for 2 weeks, and I wish I had done it sooner.md",
+    "Clippings/I revived a 15-year-old laptop with an OS that runs entirely in memory.md",
+    "Clippings/Mike Wallace, Who Wrote a Radical History of New York, Dies at 83.md",
+    "Index-home.md",
+    "Clippings/Welcome Home by Joel McKerrow - Creativity Series.md",
+    "Clippings/Instant Pot 15 Bean Soup (No Pre-Soaking!) Valerie's Kitchen.md",
+    "inbox/Home.md",
+    "Clippings/‘All men are created equal’ America has lost its values. It’s time to go back to the founding text 1.md",
+    "Clippings/Long Before The Incas, Another Empire Ruled The Andes. We're Only Now Piecing Together Who They Were.md",
+    "Clippings/‘All men are created equal’ America has lost its values. It’s time to go back to the founding text.md",
+    "journal/2026-07-02.md",
+    "journal/2026-07-01.md",
+    "Clippings/The Founding Father Who Sought a Last-Minute Deal to Avert the Revolution.md",
+    "Clippings",
+    "Index.md",
+    "inbox/Trump’s sweeping changes to student loans take effect July 1. Here’s what they mean for you.md",
+    "Index.md",
+    "inbox/Trump’s sweeping changes to student loans take effect July 1. Here’s what they mean for you.md",
+    "Templates/journal-template-sample.md",
+    "journal",
+    "Templates",
+    "Slurped Pages/The American Revolution Through the Eyes of Seven Everyday Founders.md",
+    "Slurped Pages/GitHub - adi1090xtermux-style - Simple script to change color-schemes and fonts for Termux..md",
+    "Slurped Pages/slurp obsidian how to.md",
+    "Slurped Pages",
+    "Share files to nearby devices.md",
+    "Index one.md",
+    "This would be from iphone.md"
   ]
 }
