@@ -11,10 +11,14 @@
             "id": "29e092102fddba02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "America Is Atomizing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "America Is Atomizing"
             }
           }
         ]
@@ -178,6 +182,7 @@
   },
   "active": "29e092102fddba02",
   "lastOpenFiles": [
+    "America Is Atomizing.md",
     "They Died, Unrecognized, for Britain.md",
     "Human evolution.md",
     "journal/2026-08-07.md",
