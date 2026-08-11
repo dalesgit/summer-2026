@@ -1,13 +1,13 @@
 ---
-title: Long Before The Incas, Another Empire Ruled The Andes. We're Only Now Piecing Together Who They Were
-source: https://www.sciencealert.com/the-mysterious-civilization-that-pre-dated-the-incas-by-500-years
+title: "Long Before The Incas, Another Empire Ruled The Andes. We're Only Now Piecing Together Who They Were"
+source: "https://www.sciencealert.com/the-mysterious-civilization-that-pre-dated-the-incas-by-500-years"
 author:
   - "[[Peter Dockrill]]"
 published: 2026-07-04
 created: 2026-07-04
-description: The mysterious Inca Empire is a source of endless fascination to many, representing the largest and most elaborate society of pre-Columbian America.
+description: "The mysterious Inca Empire is a source of endless fascination to many, representing the largest and most elaborate society of pre-Columbian America."
 tags:
-  - slurp/History
+  - "clippings"
 ---
 1The [mysterious Inca Empire](https://www.sciencealert.com/inca-origins-tracked-through-descendants-dna-genetics) is a source of endless fascination to many, representing the largest and most elaborate society of pre-Columbian America.
 
