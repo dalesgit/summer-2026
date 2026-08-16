@@ -6,5 +6,6 @@
   "nldates-redux",
   "dataview",
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "print"
 ]
