@@ -5,12 +5,12 @@
       "path": "Birthday gifts.md"
     },
     {
-      "basename": "goldchain",
-      "path": "assets/Pictures/goldchain.png"
-    },
-    {
       "basename": "Index-home",
       "path": "Index-home.md"
+    },
+    {
+      "basename": "goldchain",
+      "path": "assets/Pictures/goldchain.png"
     },
     {
       "basename": "tada-seat",
