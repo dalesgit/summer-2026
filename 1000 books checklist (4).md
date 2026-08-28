@@ -29,11 +29,11 @@ K
 
 - [ ] Franz Kafka: 
 	- [ ] The Complete Stories 
-	- [ ] The Trial 
+	- [x] The Trial 
 - [ ] The Boys of Summer, Roger Kahn 
 - [ ] When French Women Cook, Madeleine Kamman 
 - [ ] Andersonville, MacKinlay Kantor 
-- [ ] The Liars’ Club, Mary Karr 
+- [x] The Liars’ Club, Mary Karr 
 - [ ] The Perfect Stranger, P. J. Kavanagh 
 - [ ] Palm-of-the-Hand Stories, Yasunari Kawabata 
 - [ ] The Greek Passion, Nikos Kazantzakis 

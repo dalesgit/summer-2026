@@ -27,9 +27,9 @@ T
 - [ ] Célestine, Gillian Tindall 
 - [ ] Her Smoke Rose Up Forever, James Tiptree Jr. 
 - [ ] Democracy in America, Alexis de Tocqueville
-- [ ] J. R. R. Tolkien: 
-	- [ ] The Hobbit 
-	- [ ] The Lord of the Rings 
+- [x] J. R. R. Tolkien: 
+	- [x] The Hobbit 
+	- [x] The Lord of the Rings 
 - [ ] Leo Tolstoy: 
 	- [ ] Anna Karenina 
 	- [ ] The Death of Ivan Ilyich 

@@ -7,18 +7,36 @@ You can go ahead and delete this placeholder content in a second, but before you
 
 cf. https://b.27p.de/qt/00002-silverbullet-query-examples/
 https://silverbullet.md/Space%20Lua/Integrated%20Query
+## recent queries
 
-### Open Tasks
+- Most recent journal [[entries/2026-05-22]]
+(_order by Created_)
 
-${template.each(
-query[[
-  from index.tag 'task' where not table.includes(itags, 'meta')
-  and not done
-]],
-templates.taskItem
-)}
+${query[[from p = index.tag "page" 
+where p.created:startsWith("2026") 
+order by p.created desc limit 5 
+select templates.pageItem(p)
+]]}
+(_ordr by Modified_)
+- query created in May (descending order)
 
-### (done Tasks)
+${query[[from p = index.tag("page") 
+where p.created:startsWith("2026-06")
+order by p.lastModified desc 
+limit 5
+select templates.pageItem(p)
+]]}
+
+${query[[from p = index.tag "page" 
+where p.created:startsWith("2026-05")
+order by p.lastModified desc
+limit 5
+select templates.pageItem(p)
+]]}
+
+### Open Tasks (in this case the unread books from 1000 books to read) (search on “and not done”) to get the larger list
+
+(done Tasks)
 
 ${template.each(
 query[[
@@ -28,6 +46,17 @@ query[[
 templates.taskItem
 )}
 
+(not done)
+
+${template.each(
+query[[
+  from index.tag 'task' where not table.includes(itags, 'meta')
+  and not done
+]],
+templates.taskItem
+)}
+
+### 
 ## recent queries
 (_order by Created_)
 ${query[[from p = index.tag "page" 
@@ -112,29 +141,3 @@ query[[
 templates.taskItem
 )}
 
-## recent queries
-
-- Most recent journal [[entries/2026-05-22]]
-(_order by Created_)
-
-${query[[from p = index.tag "page" 
-where p.created:startsWith("2026") 
-order by p.created desc limit 5 
-select templates.pageItem(p)
-]]}
-(_ordr by Modified_)
-- query created in May (descending order)
-
-${query[[from p = index.tag("page") 
-where p.created:startsWith("2026-06")
-order by p.lastModified desc 
-limit 5
-select templates.pageItem(p)
-]]}
-
-${query[[from p = index.tag "page" 
-where p.created:startsWith("2026-05")
-order by p.lastModified desc
-limit 5
-select templates.pageItem(p)
-]]}
