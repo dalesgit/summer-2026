@@ -1,3 +1,7 @@
+[[1000 books checklist (3)]]
+
+34
+
 C 
 
 - [ ] The Marriage of Cadmus and Harmony, Roberto Calasso 
@@ -7,13 +11,13 @@ C
 	- [ ] Primitive Mythology 
 	- [ ] Occidental Mythology 
 	- [ ] Oriental Mythology 
-	- [ ] Creative Mythology 
+	- [x] Creative Mythology 
 - [ ] Albert Camus: 
 	- [ ] The First Man 
-	- [ ] The Plague
-	- [ ] The Plague 
+	- [x] The Plague
+	- [x] The Plague 
 - [ ] Slightly Out of Focus, Robert Capa 
-- [ ] In Cold Blood, Truman Capote 
+- [x] In Cold Blood, Truman Capote 
 - [ ] Ender’s Game, Orson Scott Card 
 - [ ] Eyewitness to History, John Carey 
 - [ ] True History of the Kelly Gang, Peter Carey 
@@ -28,8 +32,8 @@ C
 	- [ ] The Passage of Power 
 - [ ] A Month in the Country, J. L. Carr 
 - [ ] Alice in Wonderland, Lewis Carroll 
-	- [ ] Alice’s Adventures in Wonderland 
-	- [ ] Through the Looking-Glass 
+	- [x] Alice’s Adventures in Wonderland 
+	- [x] Through the Looking-Glass 
 - [ ] Silent Spring, Rachel Carson 
 - [ ] The Horse’s Mouth, Joyce Cary 
 - [ ] History of My Life, Giacomo Casanova 
@@ -47,23 +51,23 @@ C
 - [ ] The Big Sleep, Raymond Chandler 
 - [ ] Can’t We Talk About Something More Pleasant?, Roz Chast 
 - [ ] The Songlines, Bruce Chatwin 
-- [ ] The Canterbury Tales, Geoffrey Chaucer 
+- [x] The Canterbury Tales, Geoffrey Chaucer 
 - [ ] Dawn of Art: The Chauvet Cave, Jean-Marie Chauvet, Eliette Brunel Deschamps, and Christian Hillaire 
 - [ ] The Stories of John Cheever, John Cheever 
 - [ ] Anton Chekhov: 
-	- [ ] The Cherry Orchard 
-	- [ ] The Seagull 
-	- [ ] Stories 
+	- [x] The Cherry Orchard 
+	- [x] The Seagull 
+	- [x] Stories 
 	- [ ] Three Sisters 
 	- [ ] Uncle Vanya 
 - [ ] Alexander Hamilton, Ron Chernow 
 - [ ] The Worst Journey in the World, Apsley Cherry-Garrard 
-- [ ] The Man Who Was Thursday, G. K. Chesterton 
+- [x] The Man Who Was Thursday, G. K. Chesterton 
 - [ ] The Riddle of the Sands, Erskine Childers 
 - [ ] The Awakening, Kate Chopin 
 - [ ] The Murder of Roger Ackroyd, Agatha Christie 
 - [ ] Their Finest Hour, Winston Churchill 
-- [ ] The Hunt for Red October, Tom Clancy 
+- [x] The Hunt for Red October, Tom Clancy 
 - [ ] Rome and a Villa, Eleanor Clark 
 - [ ] Childhood’s End, Arthur C. Clarke 
 - [ ] Between the World and Me, Ta-Nehisi Coates 
@@ -72,16 +76,16 @@ C
 - [ ] Earthly Paradise, Colette 
 - [ ] Sailing Alone Around the Room, Billy Collins 
 - [ ] Carrying the Fire, Michael Collins 
-- [ ] The Hunger Games, Suzanne Collins 
+- [x] The Hunger Games, Suzanne Collins 
 - [ ] The Moonstone, Wilkie Collins 
 - [ ] The Worm Forgives the Plough, John Stewart Collis 
 - [ ] Memoirs of a Medieval Woman, Louise Collis 
 - [ ] The Fringes of Power, John Colville
-- [ ] The Complete Sherlock Holmes, Sir Arthur Conan Doyle 
+- [x] The Complete Sherlock Holmes, Sir Arthur Conan Doyle 
 - [ ] Son of the Morning Star, Evan S. Connell 
 - [ ] Enemies of Promise, Cyril Connolly 
 - [ ] Joseph Conrad: 
-	- [ ] Heart of Darkness 
+	- [x] Heart of Darkness 
 	- [ ] A Personal Record 
 - [ ] The Road from Coorain, Jill Ker Conway 
 - [ ] Memories of the Great and the Good, Alistair Cooke 
@@ -91,21 +95,21 @@ C
 - [ ] Cronopios and Famas, Julio Cortázar 
 - [ ] Conversations with Glenn Gould, Jonathan Cott 
 - [ ] Stravinsky, Robert Craft 
-- [ ] The Red Badge of Courage, Stephen Crane 
+- [x] The Red Badge of Courage, Stephen Crane 
 - [ ] The Andromeda Strain, Michael Crichton 
 - [ ] The Moving Toyshop, Edmund Crispin 
 - [ ] Little, Big, John Crowley 
-- [ ] Complete Poems, 1904–1962, E. E. Cummings 
+- [x] Complete Poems, 1904–1962, E. E. Cummings 
 - [ ] Rebellion in the Backlands, Euclides da Cunha 
 - [ ] The Hours, Michael Cunningham 
-- [ ] The Decline and Fall of Practically Everybody, Will Cuppy D 
+- [x] The Decline and Fall of Practically Everybody, Will Cuppy D 
 - [ ] Memoirs of Lorenzo Da Ponte, Lorenzo Da Ponte 
 - [ ] Matilda, Roald Dahl 
 - [ ] In Xanadu, William Dalrymple 
-- [ ] The Divine Comedy, Dante Alighieri 
-	- [ ] Inferno 
-	- [ ] Purgatorio 
-	- [ ] Paradiso 
+- [x] The Divine Comedy, Dante Alighieri 
+	- [x] Inferno 
+	- [x] Purgatorio 
+	- [x] Paradiso 
 - [ ] The Dew Breaker, Edwidge Danticat 
 - [ ] The Voyage of the Beagle, Charles Darwin 
 - [ ] The Geography of the Imagination, Guy Davenport
@@ -121,7 +125,7 @@ C
 - [ ] The Auberge of the Flowering Hearth, Roy Andries de Groot 
 - [ ] Microbe Hunters, Paul de Kruif 
 - [ ] Giants and Heroes, Dianne Tittle de Laet 
-- [ ] Robinson Crusoe, Daniel Defoe 
+- [x] Robinson Crusoe, Daniel Defoe 
 - [ ] Diary of a Provincial Lady, E. M. Delafield 
 - [ ] Nova, Samuel R. Delany 
 - [ ] Great Books, David Denby 
@@ -132,33 +136,33 @@ C
 - [ ] The Three Stigmata of Palmer Eldritch 
 - [ ] Charles Dickens: 
 	- [ ] Bleak House 
-	- [ ] A Christmas Carol 
-	- [ ] David Copperfield 
+	- [x] A Christmas Carol 
+	- [x] David Copperfield 
 	- [ ] Dombey and Son 
-	- [ ] Great Expectations 
+	- [x] Great Expectations 
 	- [ ] The Life and Adventures of Nicholas Nickleby 
-	- [ ] A Tale of Two Cities 
+	- [x] A Tale of Two Cities 
 	- [ ] Oliver Twist 
-- [ ] Poems, Emily Dickinson 
+- [x] Poems, Emily Dickinson 
 - [ ] The Year of Magical Thinking, Joan Didion 
-- [ ] Pilgrim at Tinker Creek, Annie Dillard
-- [ ] Winter’s Tales, Isak Dinesen 
+- [x] Pilgrim at Tinker Creek, Annie Dillard
+- [x] Winter’s Tales, Isak Dinesen 
 - [ ] Bound to Please, Michael Dirda 
 - [ ] Ragtime, E. L. Doctorow 
 - [ ] This House of Sky, Ivan Doig 
-- [ ] Poems and Sermons, John Donne 
+- [x] Poems and Sermons, John Donne 
 - [ ] U.S.A., John Dos Passos 
 	- [ ] The 42nd Parallel 
 	- [ ] 1919 
 	- [ ] The Big Money 
 - [ ] Fyodor Dostoevsky: 
-	- [ ] The Brothers Karamazov 
-	- [ ] Crime and Punishment 
+	- [x] The Brothers Karamazov 
+	- [x] Crime and Punishment 
 	- [ ] Notes from Underground 
 	- [ ] Narrative of the Life of Frederick Douglass, an American Slave, Frederick Douglass 
 - [ ] Sister Carrie, Theodore Dreiser 
 - [ ] The Souls of Black Folk, W. E. B. Du Bois 
-- [ ] Rebecca, Daphne du Maurier 
+- [x] Rebecca, Daphne du Maurier 
 - [ ] “Bequest of Wings,” Annis Duff 
 - [ ] The World As I Found It, Bruce Duffy Alexandre Dumas: 
 - [ ] The Count of Monte Cristo 
@@ -173,4 +177,4 @@ C
 	- [ ] Clea 
 - [ ] Darwin Among the Machines, George Dyson
 
-E
+E [[1000 books checklist (3)]]

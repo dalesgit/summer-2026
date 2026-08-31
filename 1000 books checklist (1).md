@@ -1,16 +1,20 @@
+[[1000 books checklist (2)]]
+
+32 34 41 41 54 28 (230)
+
 A 
 - [ ] Desert Solitaire, Edward Abbey 
-- [ ] Flatland, Edwin A. Abbott 
-- [ ] Things Fall Apart, Chinua Achebe 
+- [x] Flatland, Edwin A. Abbott 
+- [x] Things Fall Apart, Chinua Achebe 
 - [ ] My Dog Tulip, J. R. Ackerley 
-- [ ] The Hitchhiker’s Guide to the Galaxy, Douglas Adams 
+- [x] The Hitchhiker’s Guide to the Galaxy, Douglas Adams 
 - [ ] The Education of Henry Adams, Henry Adams 
-- [ ] Watership Down, Richard Adams 
+- [x] Watership Down, Richard Adams 
 - [ ] Half of a Yellow Sun, Chimamanda Ngozi Adichie 
-- [ ] The Oresteia, Aeschylus 
+- [x] The Oresteia, Aeschylus 
 - [ ] Let Us Now Praise Famous Men, James Agee 
-- [ ] Who’s Afraid of Virginia Woolf?, Edward Albee 
-- [ ] Little Women, Louisa May Alcott 
+- [x] Who’s Afraid of Virginia Woolf?, Edward Albee 
+- [x] Little Women, Louisa May Alcott 
 - [ ] The Book of Three, Lloyd Alexander 
 - [ ] The Absolutely True Diary of a Part-Time Indian, Sherman Alexie 
 - [ ] Voices from Chernobyl, Svetlana Alexievich 
@@ -18,11 +22,11 @@ A
 - [ ] Skellig, David Almond 
 - [ ] A Coffin for Dimitrios, Eric Ambler 
 - [ ] Lucky Jim, Kingsley Amis 
-- [ ] Fairy Tales, Hans Christian Andersen 
-- [ ] I Know Why the Caged Bird Sings, Maya Angelou 
+- [x] Fairy Tales, Hans Christian Andersen 
+- [x] I Know Why the Caged Bird Sings, Maya Angelou 
 - [ ] The Arabian Nights 
-- [ ] The Clouds, Aristophanes 
-- [ ] Nicomachean Ethics, Aristotle 
+- [x] The Clouds, Aristophanes 
+- [x] Nicomachean Ethics, Aristotle 
 - [ ] Old Herbaceous, Reginald Arkell 
 - [ ] Study Is Hard Work, William H. Armstrong The Foundation Trilogy, Isaac Asimov 
 	- [ ] Foundation 
@@ -31,14 +35,14 @@ A
 - [ ] Instead of a Letter, Diana Athill 
 - [ ] Cat’s Eye, Margaret Atwood 
 - [ ] Aubrey’s Brief Lives, John Aubrey 
-- [ ] Confessions, Saint Augustine 
+- [x] Confessions, Saint Augustine 
 - [ ] Meditations, Marcus Aurelius 
 - [ ] Jane Austen: 
 	- [ ] Emma 
 	- [ ] Mansfield Park 
 	- [ ] Northanger Abbey 
 	- [ ] Persuasion 
-	- [ ] Pride and Prejudice 
+	- [x] Pride and Prejudice 
 	- [ ] Sense and Sensibility 
 B 
 - [ ] Tuck Everlasting, Natalie Babbitt 
@@ -47,7 +51,7 @@ B
 - [ ] The Ideological Origins of the American Revolution, Bernard Bailyn 
 - [ ] The Birthday Boys, Beryl Bainbridge 
 - [ ] The Mezzanine, Nicholson Baker 
-- [ ] Growing Up, Russell Baker 
+- [x] Growing Up, Russell Baker 
 - [ ] Collected Essays, James Baldwin 
 - [ ] Slaves in the Family, Edward Ball 
 - [ ] The Drowned World, J. G. Ballard 
@@ -68,13 +72,13 @@ B
 - [ ] The Narrow Road to the Deep North, Matsuo Bashō 
 - [ ] Samuel Johnson, W. Jackson Bate 
 - [ ] The Flowers of Evil, Charles Baudelaire 
-- [ ] The Wonderful Wizard of Oz, L. Frank Baum 
+- [x] The Wonderful Wizard of Oz, L. Frank Baum 
 - [ ] The Feast of Love, Charles Baxter 
 - [ ] Vacuum Diagrams, Stephen Baxter
 - [ ] Simone De Beauvoir: 
 	- [ ] The Coming of Age 
 	- [ ] Memoirs of a Dutiful Daughter 
-	- [ ] The Second Sex 
+	- [x] The Second Sex 
 - [ ] Fun Home, Alison Bechdel 
 - [ ] Love, Loss, and What I Wore, Ilene Beckerman 
 - [ ] Samuel Beckett: 
@@ -86,34 +90,34 @@ B
 - [ ] Madeline, Ludwig Bemelmans 
 - [ ] The Uncommon Reader, Alan Bennett 
 - [ ] No Picnic on Mount Kenya, Felice Benuzzi 
-- [ ] Beowulf 
+- [x] Beowulf 
 - [ ] Midnight in the Garden of Good and Evil, John Berendt 
 - [ ] A Fortunate Man, John Berger 
 - [ ] The Memoirs of Hector Berlioz, Hector Berlioz 
-- [ ] The Diary of a Country Priest, Georges Bernanos 
+- [x] The Diary of a Country Priest, Georges Bernanos 
 - [ ] All the President’s Men, Carl Bernstein and Bob Woodward 
 - [ ] The Stars My Destination, Alfred Bester 
 - [ ] The Outermost House, Henry Beston
-- [ ] Bhagavad Gita 
-- [ ] The Bible 
-- [ ] The Book of Job 
+- [x] Bhagavad Gita 
+- [x] The Bible 
+- [x] The Book of Job 
 - [ ] American Prometheus, Kai Bird and Martin J. Sherwin 
 - [ ] The Complete Poems, 1927–1979, Elizabeth Bishop 
 - [ ] Friday Night Lights, H. G. Bissinger 
 - [ ] The Emperor’s Last Island, Julia Blackburn 
-- [ ] Songs of Innocence and of Experience, William Blake 
+- [x] Songs of Innocence and of Experience, William Blake 
 - [ ] The Wilder Shores of Love, Lesley Blanch 
 - [ ] Are You There, God? It’s Me, Margaret., Judy Blume 
 - [ ] Akenfield, Ronald Blythe 
 - [ ] The Decameron, Giovanni Boccaccio 
 - [ ] 2666, Roberto Bolaño 
-- [ ] The Book of Common Prayer 
-- [ ] Ficciones, Jorge Luis Borges 
+- [x] The Book of Common Prayer 
+- [x] Ficciones, Jorge Luis Borges 
 - [ ] The Life of Samuel Johnson, James Boswell 
 - [ ] The Death of the Heart, Elizabeth Bowen 
 - [ ] The Sheltering Sky, Paul Bowles 
 - [ ] The Ascent of Rum Doodle, W. E. Bowman 
-- [ ] Fahrenheit 451, Ray Bradbury 
+- [x] Fahrenheit 451, Ray Bradbury 
 - [ ] The Chaneysville Incident, David Bradley 
 - [ ] A Bullet in the Ballet, Caryl Brahms and S. J. Simon 
 - [ ] America in the King Years, Taylor Branch 
@@ -124,22 +128,22 @@ B
 - [ ] The Mediterranean and the Mediterranean World in the Age of Philip II, Fernand Braudel 
 - [ ] Navigator of the Flood, Mario Brelich 
 - [ ] The Physiology of Taste, Jean Anthelme Brillat-Savarin 
-- [ ] Jane Eyre, Charlotte Brontë 
-- [ ] Wuthering Heights, Emily Brontë 
-- [ ] The Da Vinci Code, Dan Brown
-- [ ] Bury My Heart at Wounded Knee, Dee Brown 
+- [x] Jane Eyre, Charlotte Brontë 
+- [x] Wuthering Heights, Emily Brontë 
+- [x] The Da Vinci Code, Dan Brown
+- [x] Bury My Heart at Wounded Knee, Dee Brown 
 - [ ] Margaret Wise Brown: 
-	- [ ] Goodnight Moon 
+	- [x] Goodnight Moon 
 	- [ ] Little Fur Family 
 - [ ] The Major Works, Sir Thomas Browne 
-- [ ] The Story of Babar, Jean de Brunhoff 
+- [x] The Story of Babar, Jean de Brunhoff 
 - [ ] A Walk in the Woods, Bill Bryson 
 - [ ] The Thirty-Nine Steps, John Buchan 
-- [ ] The Good Earth, Pearl S. Buck 
+- [x] The Good Earth, Pearl S. Buck 
 - [ ] Bulfinch’s Mythology, Thomas Bulfinch 
 - [ ] The Master and Margarita, Mikhail Bulgakov 
 - [ ] The Civilization of the Renaissance in Italy, Jacob Burckhardt 
-- [ ] A Clockwork Orange, Anthony Burgess 
+- [x] A Clockwork Orange, Anthony Burgess 
 - [ ] Reflections on the Revolution in France, Edmund Burke 
 - [ ] Frances Hodgson Burnett: 
 	- [ ] A Little Princess 
@@ -149,3 +153,5 @@ B
 - [ ] The Way of All Flesh, Samuel Butler 
 - [ ] The Tartar Steppe, Dino Buzzati 
 - [ ] Possession, A. S. Byatt
+
+[[1000 books checklist (2)]]
