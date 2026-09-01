@@ -1,3 +1,7 @@
+[[1000 books checklist (5)]]
+
+41
+
 J 
 
 - [ ] The Haunting of Hill House, Shirley Jackson 
@@ -7,22 +11,22 @@ J
 - [ ] Cultural Amnesia, Clive James 
 - [ ] Henry James: 
 	- [ ] The Aspern Papers 
-	- [ ] The Portrait of a Lady 
+	- [x] The Portrait of a Lady 
 - [ ] The Collected Ghost Stories of M. R. James, M. R. James 
 - [ ] A Taste for Death, P. D. James 
 - [ ] William James: 
 	- [ ] The Selected Letters of William James 
-	- [ ] The Varieties of Religious Experience
+	- [x] The Varieties of Religious Experience
 - [ ] The Origin of Consciousness in the Breakdown of the Bicameral Mind, Julian Jaynes 
 - [ ] Heat and Dust, Ruth Prawer Jhabvala 
 - [ ] Harold and the Purple Crayon, Crockett Johnson 
 - [ ] A Johnson Reader, Samuel Johnson 
 - [ ] A False Spring, Pat Jordan 
 - [ ] James Joyce: 
-	- [ ] Dubliners 
-	- [ ] A Portrait of the Artist as a Young Man 
-	- [ ] Ulysses 
-- [ ] Memories, Dreams, Reflections, C. G. Jung 
+	- [x] Dubliners 
+	- [x] A Portrait of the Artist as a Young Man 
+	- [x] Ulysses 
+- [x] Memories, Dreams, Reflections, C. G. Jung 
 - [ ] The Phantom Tollbooth, Norton Juster 
 
 K 
@@ -45,15 +49,15 @@ K
 - [ ] Part of Our Time, Murray Kempton 
 - [ ] A Boy at the Hogarth Press, Richard Kennedy 
 - [ ] Talking Like the Rain, X. J. Kennedy 
-- [ ] The Pound Era, Hugh Kenner 
-- [ ] On the Road, Jack Kerouac
-- [ ] The Living Thoughts of Kierkegaard, Søren Kierkegaard 
+- [x] The Pound Era, Hugh Kenner 
+- [x] On the Road, Jack Kerouac
+- [x] The Living Thoughts of Kierkegaard, Søren Kierkegaard 
 - [ ] Kilvert’s Diary, Francis Kilvert 
 - [ ] Why We Can’t Wait, Martin Luther King Jr. 
 - [ ] Stephen King: 
 	- [ ] Carrie 
-	- [ ] 11/22/1963 
-- [ ] The Poisonwood Bible, Barbara Kingsolver 
+	- [x] 11/22/1963 
+- [x] The Poisonwood Bible, Barbara Kingsolver 
 - [ ] Just So Stories for Little Children, Rudyard Kipling 
 - [ ] Old House of Fear, Russell Kirk 
 - [ ] Death of My Aunt, C. H. B. Kitchin 
@@ -61,9 +65,9 @@ K
 - [ ] From the Mixed-Up Files of Mrs. Basil E. Frankweiler, E. L. Konigsburg 
 - [ ] Into Thin Air, Jon Krakauer 
 - [ ] A Hole Is to Dig, Ruth Krauss 
-- [ ] The Structure of Scientific Revolutions, Thomas S. Kuhn 
+- [x] The Structure of Scientific Revolutions, Thomas S. Kuhn 
 - [ ] The Book of Laughter and Forgetting, Milan Kundera 
-- [ ] Angels in America, Tony Kushner 
+- [x] Angels in America, Tony Kushner 
 
 L 
 
@@ -75,12 +79,12 @@ L
 - [ ] Notes on a Cowardly Lion, John Lahr 
 - [ ] The Leopard, Giuseppe Tomasi di Lampedusa 
 - [ ] Endurance, Alfred Lansing 
-- [ ] Sons and Lovers, D. H. Lawrence 
+- [x] Sons and Lovers, D. H. Lawrence 
 - [ ] Gardening for Love, Elizabeth Lawrence 
 - [ ] Independent People, Halldór Laxness 
-- [ ] The Spy Who Came In from the Cold, John le Carré 
+- [x] The Spy Who Came In from the Cold, John le Carré 
 - [ ] A Wizard of Earthsea, Ursula K. Le Guin 
-- [ ] To Kill a Mockingbird, Harper Lee 
+- [x] To Kill a Mockingbird, Harper Lee 
 - [ ] Cider with Rosie, Laurie Lee 
 - [ ] Another Self, James Lees-Milne
  - [ ] Two Sought Adventure, Fritz Leiber 
@@ -89,9 +93,10 @@ L
 - [ ] A Wrinkle in Time, Madeleine L’Engle 
 - [ ] Friends in High Places, Donna Leon 
 - [ ] LaBrava, Elmore Leonard 
-- [ ] Zibaldone, Giacomo Leopardi Doris Lessing: 
-- [ ] The Grass Is Singing 
-- [ ] The Golden Notebook 
+- [ ] Zibaldone, Giacomo Leopardi 
+- [ ] Doris Lessing: 
+	- [ ] The Grass Is Singing 
+	- [x] The Golden Notebook 
 - [ ] Re: Colonised Planet 5, Shikasta 
 - [ ] The Gentleman in Trollope, Shirley Robin Letwin 
 - [ ] Christ Stopped at Eboli, Carlo Levi 
@@ -99,25 +104,25 @@ L
 - [ ] Rosemary’s Baby, Ira Levin 
 - [ ] Tristes Tropiques, Claude Lévi-Strauss 
 - [ ] C. S. Lewis: 
-	- [ ] A Grief Observed 
-	- [ ] The Lion, the Witch and the Wardrobe 
+	- [x] A Grief Observed 
+	- [x] The Lion, the Witch and the Wardrobe 
 - [ ] The Journals of Lewis and Clark, Meriwether Lewis and William Clark 
 - [ ] Liar’s Poker, Michael Lewis 
 - [ ] Voices of the Old Sea, Norman Lewis 
-- [ ] Main Street, Sinclair Lewis 
+- [x] Main Street, Sinclair Lewis 
 - [ ] Between Meals, A. J. Liebling 
 - [ ] Einstein’s Dreams, Alan Lightman 
 - [ ] Abraham Lincoln: Speeches and Writings, Abraham Lincoln 
 - [ ] Venice for Pleasure, J. G. Links 
 - [ ] Complete Stories, Clarice Lispector 
 - [ ] The Voyages of Doctor Dolittle, Hugh Lofting 
-- [ ] The Call of the Wild, Jack London 
+- [x] The Call of the Wild, Jack London 
 - [ ] The Art of the Personal Essay, Phillip Lopate 
 - [ ] Arctic Dreams, Barry Lopez 
 - [ ] Man Meets Dog, Konrad Lorenz 
 - [ ] The Case of Charles Dexter Ward, H. P. Lovecraft
 - [ ] Betsy-Tacy, Maud Hart Lovelace 
-- [ ] Under the Volcano, Malcolm Lowry 
+- [x] Under the Volcano, Malcolm Lowry 
 - [ ] The Way Things Are, Lucretius 
 - [ ] The Bourne Identity, Robert Ludlum 
 - [ ] The Story of My Teeth, Valeria Luiselli 
@@ -132,7 +137,7 @@ M
 - [ ] The Towers of Trebizond, Rose Macaulay 
 - [ ] Anybody Can Do Anything, Betty MacDonald 
 - [ ] Epitaph of a Small Winner, Joaquim María Machado de Assis 
-- [ ] The Prince, Niccolò Machiavelli 
+- [x] The Prince, Niccolò Machiavelli 
 - [ ] Whisky Galore, Compton Mackenzie 
 - [ ] Eastern Approaches, Fitzroy Maclean 
 - [ ] Confessions of a Philosopher, Bryan Magee 
@@ -146,14 +151,14 @@ M
 - [ ] Goodbye, Darkness, William Manchester 
 - [ ] Hope Against Hope, Nadezhda Mandelstam 
 - [ ] Ongoingness, Sarah Manguso 
-- [ ] The Magic Mountain, Thomas Mann 
+- [x] The Magic Mountain, Thomas Mann 
 - [ ] A Place of Greater Safety, Hilary Mantel 
 - [ ] Mystery Train, Greil Marcus 
 - [ ] The Infatuations, Javier Marías
 - [ ] West with the Night, Beryl Markham 
 - [ ] the lives and times of archy and mehitabel, Don Marquis 
 - [ ] The Roots of Civilization, Alexander Marshack 
-- [ ] Life of Pi, Yann Martel 
+- [x] Life of Pi, Yann Martel 
 - [ ] A Game of Thrones, George R. R. Martin 
 - [ ] The Eighteenth Brumaire of Louis Bonaparte, Karl Marx 
 - [ ] Nicholas and Alexandra, Robert K. Massie 
@@ -167,42 +172,43 @@ M
 - [ ] The Heart Is a Lonely Hunter, Carson McCullers 
 - [ ] Truman, David McCullough 
 - [ ] Lonesome Dove, Larry McMurtry 
-- [ ] Plagues and Peoples, William H. McNeill 
+- [x] Plagues and Peoples, William H. McNeill 
 - [ ] Oranges, John McPhee 
 - [ ] The Rainbabies, Laura Krauss Melmed 
 - [ ] Herman Melville: 
-	- [ ] Moby-Dick 
+	- [x] Moby-Dick 
 	- [ ] The Piazza Tales 
-- [ ] The Metaphysical Club, Louis Menand 
+- [x] The Metaphysical Club, Louis Menand 
 - [ ] A Mencken Chrestomathy, H. L. Mencken 
 - [ ] On the Shoulders of Giants, Robert K. Merton 
-- [ ] The Seven Storey Mountain, Thomas Merton 
+- [x] The Seven Storey Mountain, Thomas Merton 
 - [ ] The First Day on the Somme, Martin Middlebrook 
 - [ ] Autobiography of John Stuart Mill, John Stuart Mill 
-- [ ] Death of a Salesman, Arthur Miller 
+- [x] Death of a Salesman, Arthur Miller 
 - [ ] Black Spring, Henry Miller 
-- [ ] A Canticle for Leibowitz, Walter M. Miller Jr. 
+- [x] A Canticle for Leibowitz, Walter M. Miller Jr. 
 - [ ] The World of Winnie-the-Pooh, A. A. Milne 
-	- [ ] Winnie-the-Pooh
-	 - [ ] The House at Pooh Corner 
-- [ ] Paradise Lost, John Milton 
+	- [x] Winnie-the-Pooh
+	 - [x] The House at Pooh Corner 
+- [x] Paradise Lost, John Milton 
 - [ ] Little Bear, Else Holmelund Minarik 
 - [ ] A Fine Balance, Rohinton Mistry 
 - [ ] Up in the Old Hotel, Joseph Mitchell 
-- [ ] Gone With the Wind, Margaret Mitchell 
+- [x] Gone With the Wind, Margaret Mitchell 
 - [ ] Hons and Rebels, Jessica Mitford 
 - [ ] The Pursuit of Love, Nancy Mitford 
 - [ ] House Made of Dawn, N. Scott Momaday 
-- [ ] Essays, Michel Eyquem de Montaigne 
+- [x] Essays, Michel Eyquem de Montaigne 
 - [ ] Anne of Green Gables, L. M. Montgomery 
 - [ ] Stormbringer, Michael Moorcock 
 - [ ] Judgment Night, C. L. Moore 
-- [ ] History: A Novel, Elsa Morante The Bookshop Novels, Christopher Morley 
-- [ ] Parnassus on Wheels 
-- [ ] The Haunted Bookshop 
+- [ ] History: A Novel, Elsa Morante 
+- [ ] The Bookshop Novels, Christopher Morley 
+	- [ ] Parnassus on Wheels 
+	- [ ] The Haunted Bookshop 
 - [ ] The Rise of Theodore Roosevelt, Edmund Morris 
 - [ ] Pax Britannica, Jan Morris 
-- [ ] Beloved, Toni Morrison 
+- [x] Beloved, Toni Morrison 
 - [ ] Ill Met by Moonlight, W. Stanley Moss 
 - [ ] My First Summer in the Sierra, John Muir 
 - [ ] The Emperor of All Maladies, Siddhartha Mukherjee 
@@ -210,5 +216,7 @@ M
 - [ ] Selected Stories, 1968–1994, Alice Munro 
 - [ ] The Wind-Up Bird Chronicle, Haruki Murakami 
 - [ ] The Tale of Genji, Lady Murasaki Shikibu 
-- [ ] The Sea, the Sea, Iris Murdoch 
+- [x] The Sea, the Sea, Iris Murdoch 
 - [ ] The Man Without Qualities, Robert Musil
+
+[[1000 books checklist (5)]]

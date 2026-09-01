@@ -1,21 +1,25 @@
+[[1000 books checklist (6)]]
+
+54
+
 N 
 
 - [ ] Vladimir Nabokov: 
-	- [ ] Lolita 
+	- [x] Lolita 
 	- [ ] Speak, Memory
 - [ ] Reading Lolita in Tehran, Azar Nafisi 
 - [ ] A House for Mr. Biswas, V. S. Naipaul 
-- [ ] A Beautiful Mind, Sylvia Nasar 
+- [x] A Beautiful Mind, Sylvia Nasar 
 - [ ] The Women of Brewster Place, Gloria Naylor 
 - [ ] A Short Walk in the Hindu Kush, Eric Newby 
 - [ ] The Reckoning, Charles Nicholl 
 - [ ] Merry Hall, Beverley Nichols 
 - [ ] Portrait of a Marriage, Nigel Nicolson 
-- [ ] The Birth of Tragedy, Friedrich Nietzsche 
+- [x] The Birth of Tragedy, Friedrich Nietzsche 
 - [ ] Ringworld, Larry Niven 
-- [ ] The 9/11 Commission Report 
+- [x] The 9/11 Commission Report 
 - [ ] Mutiny on the Bounty, Charles Nordhoff and James Norman Hall 
-- [ ] Dakota, Kathleen Norris 
+- [x] Dakota, Kathleen Norris 
 
 O 
 
@@ -27,8 +31,8 @@ O
 - [ ] Mrs. Adams in Winter, Michael O’Brien 
 - [ ] The Things They Carried, Tim O’Brien 
 - [ ] Flannery O’Connor: 
-	- [ ] The Complete Stories 
-	- [ ] The Habit of Being 
+	- [x] The Complete Stories 
+	- [x] The Habit of Being 
 - [ ] Collected Stories, Frank O’Connor 
 - [ ] Are You Somebody?, Nuala O’Faolain 
 - [ ] Into the Heart of Borneo, Redmond O’Hanlon 
@@ -39,27 +43,27 @@ O
 - [ ] The Origins of European Thought About the Body, the Mind, the Soul, the World, Time, and Fate, R. B. Onians 
 - [ ] War in Val D’Orcia, Iris Origo
 - [ ] George Orwell: 
-	- [ ] 1984 
+	- [x] 1984 
 	- [ ] The Collected Essays, Journalism, and Letters: 
 	- [ ] An Age Like This 
 	- [ ] My Country Right or Left 
 	- [ ] As I Please 
 	- [ ] In Front of Your Nose 
-- [ ] Metamorphoses, Ovid 
+- [x] Metamorphoses, Ovid 
 
 P, Q 
 
 
 - [ ] The Village of Waiting, George Packer 
-- [ ] The Gnostic Gospels, Elaine Pagels 
+- [x] The Gnostic Gospels, Elaine Pagels 
 - [ ] The Cosmic Code, Heinz R. Pagels 
 - [ ] Memoirs of a Provençal Childhood, Marcel Pagnol 
 	- [ ] My Father’s Glory 
 	- [ ] My Mother’s Castle 
 - [ ] The Portable Dorothy Parker, Dorothy Parker 
 - [ ] France and England in North America, Francis Parkman 
-- [ ] Pensées, Blaise Pascal 
-- [ ] Doctor Zhivago, Boris Pasternak 
+- [x] Pensées, Blaise Pascal 
+- [x] Doctor Zhivago, Boris Pasternak 
 - [ ] Cry, the Beloved Country, Alan Paton 
 - [ ] Kiss the Girls, James Patterson 
 - [ ] Medieval in LA: A Fiction, Jim Paul 
@@ -74,13 +78,13 @@ P, Q
 - [ ] A Reader’s Delight, Noel Perrin 
 - [ ] Giving Up the Gun, Noel Perrin 
 - [ ] The Beast in the Nursery, Adam Phillips
-- [ ] Zen and the Art of Motorcycle Maintenance, Robert M. Pirsig 
+- [x] Zen and the Art of Motorcycle Maintenance, Robert M. Pirsig 
 - [ ] The Book of the City of Ladies, Christine de Pizan 
-- [ ] Collected Dialogues, Plato 
+- [x] Collected Dialogues, Plato 
 - [ ] The Bogey Man, George Plimpton 
 - [ ] Letters of Pliny the Younger, Pliny the Younger 
 - [ ] Plutarch’s Lives, Plutarch 
-- [ ] Poetry and Tales, Edgar Allan Poe 
+- [x] Poetry and Tales, Edgar Allan Poe 
 - [ ] The Travels of Marco Polo, Marco Polo 
 - [ ] The Collected Stories of Katherine Anne Porter, Katherine Anne Porter 
 - [ ] The World of Peter Rabbit, Beatrix Potter 
@@ -92,7 +96,7 @@ P, Q
 - [ ] A Palpable God, Reynolds Price 
 - [ ] Clockers, Richard Price 
 - [ ] Marcel Proust: In Search of Lost Time: 
-	- [ ] Swann’s Way 
+	- [x] Swann’s Way 
 	- [ ] Within a Budding Grove 
 	- [ ] The Guermantes Way 
 	- [ ] Sodom and Gomorrah 
@@ -103,15 +107,15 @@ P, Q
 - [ ] Eugene Onegin, Alexander Pushkin 
 - [ ] Excellent Women, Barbara Pym 
 - [ ] Gravity’s Rainbow, Thomas Pynchon 
-- [ ] The Qur’an 
+- [x] The Qur’an 
 
 R 
 
 
 - [ ] Old Glory, Jonathan Raban
-- [ ] Gargantua and Pantagruel, François Rabelais 
+- [x] Gargantua and Pantagruel, François Rabelais 
 - [ ] Sparkle and Spin, Ann Rand and Paul Rand 
-- [ ] Atlas Shrugged, Ayn Rand 
+- [x] Atlas Shrugged, Ayn Rand 
 - [ ] Citizen, Claudia Rankine 
 - [ ] Swallows and Amazons, Arthur Ransome 
 - [ ] The List of Books, Frederic Raphael and Kenneth McLeish 
@@ -120,12 +124,12 @@ R
 - [ ] Village School, Miss Read 
 - [ ] Mumbo Jumbo, Ishmael Reed 
 - [ ] Tender at the Bone, Ruth Reichl 
-- [ ] All Quiet on the Western Front, Erich Maria Remarque 
+- [x] All Quiet on the Western Front, Erich Maria Remarque 
 - [ ] Lenin’s Tomb, David Remnick 
 - [ ] A Judgement in Stone, Ruth Rendell 
 - [ ] Wide Sargasso Sea, Jean Rhys 
 - [ ] Interview with the Vampire, Anne Rice 
-- [ ] Selected Poetry, Rainer Maria Rilke 
+- [x] Selected Poetry, Rainer Maria Rilke 
 - [ ] Illuminations, Arthur Rimbaud 
 - [ ] Midnight in Sicily, Peter Robb 
 - [ ] Gilead, Marilynne Robinson 
@@ -133,19 +137,19 @@ R
 - [ ] The Tuscan Year, Elizabeth Romer 
 - [ ] The Walls Came Tumbling Down, Henriette Roosenburg 
 - [ ] Explaining Hitler, Ron Rosenbaum 
-- [ ] Call It Sleep, Henry Roth 
+- [x] Call It Sleep, Henry Roth 
 - [ ] Philip Roth: 
-	- [ ] American Pastoral 
+	- [x] American Pastoral 
 	- [ ] The Ghost Writer 
 - [ ] The Medical Detectives, Berton Roueché 
 - [ ] Classic Crimes, W. N. Roughead 
-- [ ] The Confessions, Jean-Jacques Rousseau 
+- [x] The Confessions, Jean-Jacques Rousseau 
 - [ ] Harry Potter and the Sorcerer’s Stone, J. K. Rowling 
 - [ ] The God of Small Things, Arundhati Roy 
 - [ ] Guys and Dolls, Damon Runyon
 - [ ] Midnight’s Children, Salman Rushdie 
 - [ ] The Stones of Venice, John Ruskin 
-- [ ] The Longest Day, Cornelius Ryan 
+- [x] The Longest Day, Cornelius Ryan 
 - [ ] Home, Witold Rybczynski 
 
 S 
@@ -156,35 +160,35 @@ S
 - [ ] All Passion Spent, Vita Sackville-West 
 - [ ] The Dragons of Eden, Carl Sagan 
 - [ ] The Sagas of Icelanders 
-- [ ] The Little Prince, Antoine de Saint-Exupéry 
+- [x] The Little Prince, Antoine de Saint-Exupéry 
 - [ ] Memoirs, Duc de Saint-Simon 
-- [ ] The Catcher in the Rye, J. D. Salinger 
+- [x] The Catcher in the Rye, J. D. Salinger 
 - [ ] Light Years, James Salter 
 - [ ] Lost in Place, Mark Salzman 
-- [ ] Poems, Sappho 
-- [ ] No Exit, Jean-Paul Sartre 
+- [x] Poems, Sappho 
+- [x] No Exit, Jean-Paul Sartre 
 - [ ] The Complete Memoirs of George Sherston, Siegfried Sassoon 
 - [ ] The Complete Persepolis, Marjane Satrapi 
 - [ ] Landscape and Memory, Simon Schama 
 - [ ] Saint-Exupéry, Stacy Schiff 
 - [ ] Forms of Devotion, Diane Schoemperlen 
-- [ ] The Last of the Just, André Schwarz-Bart 
+- [x] The Last of the Just, André Schwarz-Bart 
 - [ ] The Emigrants, W. G. Sebald 
-- [ ] Where the Wild Things Are, Maurice Sendak 
+- [x] Where the Wild Things Are, Maurice Sendak 
 - [ ] The Golden Gate, Vikram Seth 
 - [ ] The Killer Angels, Michael Shaara 
 - [ ] William Shakespeare: 
-	- [ ] Hamlet 
-	- [ ] Henry IV, Part 1 
-	- [ ] Henry IV, Part 2 
+	- [x] Hamlet 
+	- [x] Henry IV, Part 1 
+	- [x] Henry IV, Part 2 
 	- [ ] Henry V 
-	- [ ] Julius Caesar
-	- [ ] King Lear 
-	- [ ] Macbeth 
+	- [x] Julius Caesar
+	- [x] King Lear 
+	- [x] Macbeth 
 	- [ ] A Midsummer Night’s Dream 
-	- [ ] Othello 
+	- [x] Othello 
 	- [ ] Richard II 
-	- [ ] Romeo and Juliet 
+	- [x] Romeo and Juliet 
 	- [ ] The Sonnets 
 	- [ ] The Tempest 
 - [ ] Pygmalion, George Bernard Shaw 
@@ -193,10 +197,10 @@ S
 - [ ] The Stone Diaries, Carol Shields 
 - [ ] Berlin Diary, William L. Shirer 
 - [ ] The Pillow Book of Sei Shōnagon, Sei Shōnagon 
-- [ ] Bread and Wine, Ignazio Silone 
+- [x] Bread and Wine, Ignazio Silone 
 - [ ] City, Clifford D. Simak 
 - [ ] Maigret and the Man on the Bench, Georges Simenon 
-- [ ] The Collected Stories, Isaac Bashevis Singer 
+- [x] The Collected Stories, Isaac Bashevis Singer 
 - [ ] The Three Golden Keys, Peter Sís 
 - [ ] The Immortal Life of Henrietta Lacks, Rebecca Skloot 
 - [ ] Sailing Alone Around the World, Joshua Slocum 
@@ -212,11 +216,11 @@ S
 - [ ] River of Shadows, Rebecca Solnit 
 - [ ] Aleksandr Solzhenitsyn: 
 	- [ ] One Day in the Life of Ivan Denisovich 
-	- [ ] The Gulag Archipelago 1918–1956
-- [ ] Sophocles: 
-	- [ ] Antigone 
-	- [ ] Oedipus at Colonus 
-	- [ ] Oedipus the King 
+	- [x] The Gulag Archipelago 1918–1956
+- [x] Sophocles: 
+	- [x] Antigone 
+	- [x] Oedipus at Colonus 
+	- [x] Oedipus the King 
 - [ ] Aké, Wole Soyinka 
 - [ ] Memento Mori, Muriel Spark 
 - [ ] The Complete Maus, Art Spiegelman 
@@ -229,28 +233,28 @@ S
 - [ ] Abel’s Island, William Steig 
 - [ ] The Autobiography of Alice B. Toklas, Gertrude Stein 
 - [ ] John Steinbeck: 
-	- [ ] The Grapes of Wrath 
+	- [x] The Grapes of Wrath 
 	- [ ] Travels with Charley 
-- [ ] After Babel, George Steiner 
-- [ ] The Red and the Black, Stendhal 
+- [x] After Babel, George Steiner 
+- [x] The Red and the Black, Stendhal 
 - [ ] Quicksilver, Neal Stephenson 
 - [ ] The Life and Opinions of Tristram Shandy, Gentleman, Laurence Sterne 
 - [ ] Robert Louis Stevenson: 
 	- [ ] A Child’s Garden of Verses 
-	- [ ] Kidnapped 
-	- [ ] The Strange Case of Dr. Jekyll and Mr. Hyde 
-	- [ ] Treasure Island 
+	- [x] Kidnapped 
+	- [x] The Strange Case of Dr. Jekyll and Mr. Hyde 
+	- [x] Treasure Island 
 - [ ] Letters of a Woman Homesteader, Elinore Pruitt Stewart 
 - [ ] Dracula, Bram Stoker 
 - [ ] Fer-de-Lance, Rex Stout 
 - [ ] lost boy, lost girl, Peter Straub 
 - [ ] Alice James: A Biography, Jean Strouse 
 - [ ] Morgan: American Financier, Jean Strouse 
-- [ ] Sophie’s Choice, William Styron
+- [x] Sophie’s Choice, William Styron
 - [ ] The Twelve Caesars, Suetonius 
 - [ ] Zeno’s Conscience, Italo Svevo 
-- [ ] Gulliver’s Travels, Jonathan Swift 
+- [x] Gulliver’s Travels, Jonathan Swift 
 - [ ] The Quest for Corvo, A. J. A. Symons 
 - [ ] Map: Collected and Last Poems, Wisława Szymborska
 
-s
+[[1000 books checklist (6)]]
