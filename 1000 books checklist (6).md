@@ -1,3 +1,7 @@
+[[1000 books checklist (1)]]
+
+28
+
 T 
 
 - [ ] Histories of Rome, Tacitus 
@@ -6,7 +10,7 @@ T
 - [ ] Fame and Obscurity, Gay Talese 
 - [ ] This One Summer, Mariko Tamaki and Jillian Tamaki 
 - [ ] The Joy Luck Club, Amy Tan 
-- [ ] Tao Te Ching 
+- [x] Tao Te Ching 
 - [ ] The Secret History, Donna Tartt 
 - [ ] The Surprise of Cremona, Edith Templeton 
 - [ ] The Daughter of Time, Josephine Tey 
@@ -20,20 +24,20 @@ T
 - [ ] Lark Rise to Candleford, Flora Thompson 
 - [ ] Fear and Loathing in Las Vegas, Hunter S. Thompson 
 - [ ] Eloise, Kay Thompson 
-- [ ] Walden, Henry David Thoreau 
-- [ ] The History of the Peloponnesian War, Thucydides 
+- [x] Walden, Henry David Thoreau 
+- [x] The History of the Peloponnesian War, Thucydides 
 - [ ] The Thurber Carnival, James Thurber 
 - [ ] Prisoner Without a Name, Cell Without a Number, Jacobo Timerman 
 - [ ] Célestine, Gillian Tindall 
 - [ ] Her Smoke Rose Up Forever, James Tiptree Jr. 
 - [ ] Democracy in America, Alexis de Tocqueville
-- [ ] J. R. R. Tolkien: 
-	- [ ] The Hobbit 
-	- [ ] The Lord of the Rings 
+- [x] J. R. R. Tolkien: 
+	- [x] The Hobbit 
+	- [x] The Lord of the Rings 
 - [ ] Leo Tolstoy: 
-	- [ ] Anna Karenina 
+	- [x] Anna Karenina 
 	- [ ] The Death of Ivan Ilyich 
-	- [ ] War and Peace 
+	- [x] War and Peace 
 - [ ] The Sea and the Jungle, H. M. Tomlinson 
 - [ ] Small Talk at Wreyland, Cecil Torr 
 - [ ] The Great Good Thing, Roderick Townley 
@@ -46,10 +50,10 @@ T
 - [ ] The Guns of August, Barbara W. Tuchman 
 - [ ] Presumed Innocent, Scott Turow 
 - [ ] Mark Twain: 
-	- [ ] The Adventures of Huckleberry Finn 
-	- [ ] The Adventures of Tom Sawyer 
+	- [x] The Adventures of Huckleberry Finn 
+	- [x] The Adventures of Tom Sawyer 
 	- [ ] Letters from the Earth 
-- [ ] Dinner at the Homesick Restaurant, Anne Tyler 
+- [x] Dinner at the Homesick Restaurant, Anne Tyler 
 
 U, V 
 
@@ -59,18 +63,18 @@ U, V
 - [ ] The Dying Earth, Jack Vance 
 - [ ] The Letters of Vincent van Gogh, Vincent van Gogh 
 - [ ] Lives of the Most Excellent Painters, Sculptors, and Architects, Giorgio Vasari 
-- [ ] Twenty Thousand Leagues Under the Sea, Jules Verne 
-- [ ] Burr: A Novel, Gore Vidal 
-- [ ] The Aeneid, Virgil
-- [ ] Candide, or Optimism, Voltaire 
+- [x] Twenty Thousand Leagues Under the Sea, Jules Verne 
+- [x] Burr: A Novel, Gore Vidal 
+- [x] The Aeneid, Virgil
+- [x] Candide, or Optimism, Voltaire 
 - [ ] Elizabeth and Her German Garden, Elizabeth von Arnim 
-- [ ] Slaughterhouse-Five, Kurt Vonnegut 
+- [x] Slaughterhouse-Five, Kurt Vonnegut 
 - [ ] Girl in Hyacinth Blue, Susan Vreeland 
 
 W 
 
 - [ ] Holy Land, D. J. Waldie 
-- [ ] The Color Purple, Alice Walker 
+- [x] The Color Purple, Alice Walker 
 - [ ] The Compleat Angler, Izaak Walton 
 - [ ] Among Others, Jo Walton 
 - [ ] The Boxcar Children, Gertrude Chandler Warner 
@@ -81,35 +85,35 @@ W
 - [ ] The Double Helix, James D. Watson 
 - [ ] The Loved One, Evelyn Waugh 
 - [ ] A Coffin for King Charles, C. V. Wedgwood 
-- [ ] Simone Weil: An Anthology, Simone Weil 
+- [x] Simone Weil: An Anthology, Simone Weil 
 - [ ] The Invisible Man, H. G. Wells 
 - [ ] The Collected Stories of Eudora Welty, Eudora Welty 
 - [ ] Boggs: A Comedy of Values, Lawrence Weschler 
 - [ ] Black Lamb and Grey Falcon, Rebecca West 
 - [ ] The Hot Rock, Donald E. Westlake 
 - [ ] The Age of Innocence, Edith Wharton 
-- [ ] Charlotte’s Web, E. B. White 
-- [ ] The Once and Future King, T. H. White 
+- [x] Charlotte’s Web, E. B. White 
+- [x] The Once and Future King, T. H. White 
 - [ ] The Making of the President 1960, Theodore H. White 
-- [ ] The Underground Railroad, Colson Whitehead 
-- [ ] Leaves of Grass, Walt Whitman 
-- [ ] Night, Elie Wiesel 
+- [x] The Underground Railroad, Colson Whitehead 
+- [x] Leaves of Grass, Walt Whitman 
+- [x] Night, Elie Wiesel 
 - [ ] Kaddish, Leon Wieseltier 
 - [ ] Collected Poems 1943–2004, Richard Wilbur
-- [ ] The Importance of Being Earnest, Oscar Wilde 
+- [x] The Importance of Being Earnest, Oscar Wilde 
 - [ ] Little House in the Big Woods, Laura Ingalls Wilder 
-- [ ] The Bridge of San Luis Rey, Thornton Wilder 
+- [x] The Bridge of San Luis Rey, Thornton Wilder 
 - [ ] Stoner, John Williams 
-- [ ] A Streetcar Named Desire, Tennessee Williams 
+- [x] A Streetcar Named Desire, Tennessee Williams 
 - [ ] Tarka the Otter, Henry Williamson 
-- [ ] Lincoln at Gettysburg, Garry Wills 
+- [x] Lincoln at Gettysburg, Garry Wills 
 - [ ] Dearest Friend: A Life of Abigail Adams, Lynne Withey 
 - [ ] Israel and the Dead Sea Scrolls, Edmund Wilson 
 - [ ] Naturalist, Edward O. Wilson 
 - [ ] April 1865, Jay Winik 
 - [ ] Pigs Have Wings, P. G. Wodehouse 
 - [ ] Look Homeward, Angel, Thomas Wolfe 
-- [ ] The Bonfire of the Vanities, Tom Wolfe 
+- [x] The Bonfire of the Vanities, Tom Wolfe 
 - [ ] Virginia Woolf: 
 	- [ ] The Common Reader 
 	- [ ] A Moment’s Liberty 
@@ -133,3 +137,5 @@ X, Y, Z
 - [ ] Within This Wilderness, Feenie Ziner 
 - [ ] Germinal, Émile Zola
 - [ ] A Part of Myself, Carl Zuckmayer
+
+[[1000 books checklist (1)]]

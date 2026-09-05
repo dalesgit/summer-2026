@@ -1,20 +1,24 @@
+[[1000 books checklist (4)]]
+
+41
+
 E
 
-- [ ] The Name of the Rose, Umberto Eco 
+- [x] The Name of the Rose, Umberto Eco 
 - [ ] The Worm Ouroboros, E. R. Eddison 
 - [ ] Bright Air, Brilliant Fire, Gerald M. Edelman 
 - [ ] The Book of Ebenezer Le Page, G. B. Edwards 
 - [ ] A Visit from the Goon Squad, Jennifer Egan 
 - [ ] Travels with Lizbeth, Lars Eighner 
-- [ ] The Immense Journey, Loren Eiseley 
+- [x] The Immense Journey, Loren Eiseley 
 - [ ] Middlemarch, George Eliot 
-- [ ] Four Quartets, T. S. Eliot 
+- [x] Four Quartets, T. S. Eliot 
 - [ ] Founding Brothers, Joseph J. Ellis 
-- [ ] Invisible Man, Ralph Ellison 
+- [x] Invisible Man, Ralph Ellison 
 - [ ] Essays and Lectures, Ralph Waldo Emerson 
 - [ ] Crazy Salad, Nora Ephron 
-- [ ] The Epic of Gilgamesh 
-- [ ] Praise of Folly, Desiderius Erasmus 
+- [x] The Epic of Gilgamesh 
+- [x] Praise of Folly, Desiderius Erasmus 
 - [ ] The Virgin Suicides, Jeffrey 
 - [ ] Eugenides Euripides: 
 	- [ ] Alcestis 
@@ -40,36 +44,36 @@ F
 	- [ ] Those Who Leave and Those Who Stay 
 - [ ] Coming of Age in the Milky Way, Timothy Ferris 
 - [ ] QED, Richard P. Feynman 
-- [ ] The History of Tom Jones, A Foundling, Henry Fielding 
+- [x] The History of Tom Jones, A Foundling, Henry Fielding 
 - [ ] Time and Again, Jack Finney 
 - [ ] The Art of Eating, M. F. K. Fisher 
 - [ ] F. Scott Fitzgerald: 
-	- [ ] The Great Gatsby 
+	- [x] The Great Gatsby 
 	- [ ] Tender Is the Night 
 - [ ] Offshore, Penelope Fitzgerald 
 - [ ] Harriet the Spy, Louise Fitzhugh 
 - [ ] Gustave Flaubert: 
 	- [ ] Madame Bovary 
 	- [ ] Sentimental Education 
-- [ ] From Russia with Love, Ian Fleming 
+- [x] From Russia with Love, Ian Fleming 
 - [ ] Brazilian Adventure, Peter Fleming 
 - [ ] Gone Girl, Gillian Flynn 
 - [ ] The Civil War, Shelby Foote 
 - [ ] Johnny Tremain, Esther Forbes 
-- [ ] The Good Soldier, Ford Madox Ford 
+- [x] The Good Soldier, Ford Madox Ford 
 - [ ] Independence Day, Richard Ford 
 - [ ] Flour Water Salt Yeast, Ken Forkish 
 - [ ] A Passage to India, E. M. Forster 
 - [ ] The Day of the Jackal, Frederick Forsyth 
 - [ ] A Dictionary of Modern English Usage, H. W. Fowler 
-- [ ] The French Lieutenant’s Woman, John Fowles 
-- [ ] The Diary of a Young Girl, Anne Frank 
+- [x] The French Lieutenant’s Woman, John Fowles 
+- [x] The Diary of a Young Girl, Anne Frank 
 - [ ] My Brilliant Career, Miles Franklin 
 - [ ] Flashman, George MacDonald Fraser 
 - [ ] My Father’s Fortune, Michael Frayn 
-- [ ] The Interpretation of Dreams, Sigmund Freud 
+- [x] The Interpretation of Dreams, Sigmund Freud 
 - [ ] The Feminine Mystique, Betty Friedan
-- [ ] The Poetry of Robert Frost, Robert Frost 
+- [x] The Poetry of Robert Frost, Robert Frost 
 - [ ] Critical Path, R. Buckminster Fuller 
 
 G 
@@ -77,30 +81,30 @@ G
 - [ ] The Recognitions, William Gaddis 
 - [ ] A Lesson Before Dying, Ernest J. Gaines 
 - [ ] The Great Crash, 1929, John Kenneth Galbraith 
-- [ ] One Hundred Years of Solitude, Gabriel García Márquez 
+- [x] One Hundred Years of Solitude, Gabriel García Márquez 
 - [ ] The Spare Room, Helen Garner 
 - [ ] Cranford, Elizabeth Gaskell 
 - [ ] The Glass Palace, Amitav Ghosh 
-- [ ] The History of the Decline and Fall of the Roman Empire, Edward Gibbon 
+- [x] The History of the Decline and Fall of the Roman Empire, Edward Gibbon 
 - [ ] Cold Comfort Farm, Stella Gibbons 
 - [ ] A Mass for the Dead, William Gibson 
 - [ ] Pattern Recognition, William Gibson 
-- [ ] Howl and Other Poems, Allen Ginsberg 
+- [x] Howl and Other Poems, Allen Ginsberg 
 - [ ] The Little Virtues, Natalia Ginzburg 
 - [ ] Passing the Time in Ballymenone, Henry Glassie Johann 
 - [ ] Wolfgang Von Goethe: 
-	- [ ] Faust 
+	- [x] Faust 
 	- [ ] Italian Journey 
-	- [ ] The Sorrows of Young Werther 
-- [ ] Dead Souls, Nikolai Gogol 
-- [ ] Lord of the Flies, William Golding 
+	- [x] The Sorrows of Young Werther 
+- [x] Dead Souls, Nikolai Gogol 
+- [x] Lord of the Flies, William Golding 
 - [ ] Darwin’s Dreampond, Tijs Goldschmidt 
 - [ ] Oblomov, Ivan Goncharov 
 - [ ] The Goncourt Journal, Edmond de Goncourt 
 - [ ] There Is a World Elsewhere, F. González-Crussi 
 - [ ] The Panda’s Thumb, Stephen Jay Gould 
 - [ ] Personal History, Katharine Graham 
-- [ ] The Wind in the Willows, Kenneth Grahame 
+- [x] The Wind in the Willows, Kenneth Grahame 
 - [ ] Personal Memoirs of U. S. Grant, Ulysses S. Grant 
 - [ ] The Tin Drum, Günter Grass
 - [ ] Good-Bye to All That, Robert Graves 
@@ -108,10 +112,10 @@ G
 - [ ] The Dead of the House, Hannah Green 
 - [ ] Graham Greene: 
 	- [ ] The End of the Affair 
-	- [ ] The Power and the Glory 
+	- [x] The Power and the Glory 
 	- [ ] The Third Man 
-- [ ] Grimms’ Tales for Young and Old, Jacob and Wilhelm Grimm 
-- [ ] The Firm, John Grisham 
+- [x] Grimms’ Tales for Young and Old, Jacob and Wilhelm Grimm 
+- [x] The Firm, John Grisham 
 - [ ] Life and Fate, Vasily Grossman 
 - [ ] Time and the Art of Living, Robert Grudin 
 - [ ] The Little World of Don Camillo, Giovanni Guareschi 
@@ -130,33 +134,33 @@ H, I
 - [ ] A Sorrow Beyond Dreams, Peter Handke 
 - [ ] 84, Charing Cross Road, Helene Hanff 
 - [ ] Sleepless Nights, Elizabeth Hardwick 
-- [ ] Jude the Obscure, Thomas Hardy 
+- [x] Jude the Obscure, Thomas Hardy 
 - [ ] The Silence of the Lambs, Thomas Harris 
 - [ ] Forests, Robert Pogue Harrison 
 - [ ] Act One, Moss Hart 
 - [ ] The Essential Haiku, Robert Hass 
 - [ ] Nathaniel Hawthorne: 
-	- [ ] The Scarlet Letter 
+	- [x] The Scarlet Letter 
 	- [ ] Tales and Sketches
  - [ ] Adam’s Task, Vicki Hearne 
-- [ ] Blue Highways, William Least Heat-Moon 
+- [x] Blue Highways, William Least Heat-Moon 
 - [ ] Stranger in a Strange Land, Robert A. Heinlein 
 - [ ] Joseph Heller: 
-	- [ ] Catch-22 
+	- [x] Catch-22 
 	- [ ] Something Happened 
 - [ ] Ernest Hemingway: 
-	- [ ] A Farewell to Arms 
-	- [ ] The Old Man and the Sea 
+	- [x] A Farewell to Arms 
+	- [x] The Old Man and the Sea 
 	- [ ] In Our Time 
 - [ ] Dune, Frank Herbert 
-- [ ] Histories, Herodotus 
+- [x] Histories, Herodotus 
 - [ ] Dispatches, Michael Herr 
 - [ ] Zen in the Art of Archery, Eugen Herrigel 
 - [ ] All Creatures Great and Small, James Herriot 
 - [ ] My Past and Thoughts, Alexander Herzen 
-- [ ] The Glass Bead Game, Hermann Hesse 
+- [x] The Glass Bead Game, Hermann Hesse 
 - [ ] An Infamous Army, Georgette Heyer 
-- [ ] Kon-Tiki, Thor Heyerdahl 
+- [x] Kon-Tiki, Thor Heyerdahl 
 - [ ] The Destruction of Lord Raglan, Christopher Hibbert 
 - [ ] The Talented Mr. Ripley, Patricia Highsmith 
 - [ ] Goodbye, Mr. Chips, James Hilton 
@@ -170,25 +174,26 @@ H, I
 - [ ] Holmes-Laski Letters, Oliver Wendell Holmes Jr. 
 - [ ] Dr. Johnson and Mr. Savage, Richard Holmes 
 - [ ] Footsteps, Richard Holmes 
-- [ ] Homer: 
-	- [ ] The Iliad
-	- [ ] The Odyssey 
-- [ ] The Poetry of Gerard Manley Hopkins, Gerard Manley Hopkins 
+- [x] Homer: 
+	- [x] The Iliad
+	- [x] The Odyssey 
+- [x] The Poetry of Gerard Manley Hopkins, Gerard Manley Hopkins 
 - [ ] The Odes of Horace, Horace 
 - [ ] Great River, Paul Horgan 
 - [ ] Ten Years in the Tub, Nick Hornby 
 - [ ] Rogue Male, Geoffrey Household 
 - [ ] We Die Alone, David Howarth 
-- [ ] World of Our Fathers, Irving Howe 
+- [x] World of Our Fathers, Irving Howe 
 - [ ] A High Wind in Jamaica, Richard Hughes 
 - [ ] The Fatal Shore, Robert Hughes 
 - [ ] Les Misérables, Victor Hugo 
 - [ ] The Autumn of the Middle Ages, Johan Huizinga 
 - [ ] Their Eyes Were Watching God, Zora Neale Hurston 
-- [ ] Brave New World, Aldous Huxley 
+- [x] Brave New World, Aldous Huxley 
 - [ ] In the Vineyard of the Text, Ivan Illich 
-- [ ] The World According to Garp, John Irving 
+- [x] The World According to Garp, John Irving 
 - [ ] The Berlin Stories, Christopher Isherwood 
 - [ ] The Remains of the Day, Kazuo Ishiguro 
  
-J
+ [[1000 books checklist (4)]]
+
