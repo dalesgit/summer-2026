@@ -12,6 +12,9 @@ config.set("plugs", {
 
 ```space-lua
 -- managed-by: configuration-manager
+config.set("github.name", "Dale Hathaway")
+config.set("github.email", "dhath12@gmail.com")
+config.set("github.token", "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")
 command.update { name = "Open Command Palette", key = "Alt-/" }
 command.update { name = "Journal: Picker", key = "Alt-j" }
 command.update { name = "Navigate: Document Picker", key = "Alt-o" }
