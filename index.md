@@ -7,7 +7,6 @@ SORT file.ctime DESC
 LIMIT 25   
 ```
 
-
 ${query[[from p = index.tag "page" 
 where p.created:startsWith("2026") 
 order by p.created desc limit 5
