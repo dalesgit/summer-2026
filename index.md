@@ -1,4 +1,4 @@
-[[assets/bishops-province8-mokuleia-full-moon.jpg]]
+![[assets/bishops-province8-mokuleia-full-moon.jpg]]
 
 ```dataview
 TABLE dateformat(file.mtime, "dd.MM.yyyy HH:mm") AS "Last created"
