@@ -1,7 +1,9 @@
-[Ezekiel 18:1-4,25-32  
+ [Ezekiel 18:1-4,25-32  
 ](https://lectionarypage.net/YearA_RCL/Pentecost/AProp21_RCL.html#ot2)[Psalm 25:1-8  
 ](https://lectionarypage.net/YearA_RCL/Pentecost/AProp21_RCL.html#ps2)[Philippians 2:1-13  
 ](https://lectionarypage.net/YearA_RCL/Pentecost/AProp21_RCL.html#nt1)[Matthew 21:23-32](https://lectionarypage.net/YearA_RCL/Pentecost/AProp21_RCL.html#gsp1)
+
+[[preaching/proper 21 draft 1]]
 
 ### Ezekiel 18:1-4,25-32
 
