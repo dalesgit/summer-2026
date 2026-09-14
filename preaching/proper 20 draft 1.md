@@ -8,7 +8,25 @@
 - something happened a long time ago -- what does that have to do with me?
 - Lutheran in theology, Calvinist in polity, Catholic in haberdashery. It’s all old and dusty and not very relevant to the world I live in.
 - The parables we encounter in the New Testament – particularly when we do hear them as he intended – lead us to say **Wait! What!**
-
+## Begin in a different direction
+> **note** Note
+> having traveled with Mark and Angela -- my children. Asking: what do we do when the house is burning?
+- explicate scripture readings
+- understand that setting and find connections with our present reality
+- the traditional 3-fold interpretation: text, setting, present
+- replace with: present, “by whose authority”, I can’t, God can, I think I’ll let him.
+### our present reality
+- we are experience …
+- by what authority can we know what our experience means … ?
+- voice of God? stories that make a difference? actions that have an impact?
+###  old presuppositions can not be presumed in today’s world
+- **sola scriptura**
+- Protestant behemoth of America’s great renewals
+- stereotypes of all kinds
+### egs of authoritative … 
+- go out the doors to commit to support
+- narratives that have a history
+- voices from beyond the grave
 ---
 
 ## From old sermon
@@ -33,4 +51,5 @@ A few days later we woke up on the ship hoping to be able to see a total eclipse
 
 > Come to think of it, there are still some who would dispute that kind of basic reality. Those who would claim to be speaking for Christianity while reading the book of Genesis literally. Such folks miss out on so much. They miss the profound sense of connection that I felt then -- a kind of echo of my sense that we are all of us just made of bits of stardust.
 
+## It’s all energy and relationships
 
