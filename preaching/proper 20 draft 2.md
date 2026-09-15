@@ -1,4 +1,5 @@
 ## Opening
+
 It’s amazing to me to think that just a month ago I was standing behind a church in Seydisfjordur, Iceland. A little tiny village of a little over 600 people on the north-eastern side of the island nation. Until fairly recently it was the major town on the island being a good distribution point for the fishing which was the main business of the population.
 
 I was looking down on an archaeological dig from a few years ago that had uncovered a house built around the time of the earliest Viking settlement ca. 1,000 years ago.
@@ -22,6 +23,7 @@ When I heard the Gaelic music in Nova Scotia I made connections with my past. Wh
 Sailing on a ship with several thousand folks is a remarkable experience. There are two classes of folks. The guests are on decks 1-9. Some of those guests thinj it's a sign of rank how high your cabin is. Then there is the staff. They live on the decks below #1. Servants and served. But for me the overarching experience was that all of us, servant and served alike, we all on the same ship. 
 
 We're all connected.
+
 ## Things are amiss
 
 Perspective provides an ability to see things in 3D. Where before we only saw in black and white. When a different perspective arises, our world can come alive with new perceptions and new insights.
@@ -49,6 +51,7 @@ So in a common pattern, Jesus tells them a story, a parable. It’s a parable ab
 How do we tell a parable in today’s setting where our expectations of what is appropriate and fair are overthrown by God‘s overwhelming compensation?
 
 If God were to speak to someone in our midst, how would we recognize it? Who could command enough respect from the folks of Palm Harbor in Florida that we would drop everything and try to fulfill our assignment?
+
 ## Reluctant Prophets
 
 Given the diagnosis, where do we turn? Who do we look to for guidance and direction? Given that we live in a society that is strongly influenced by a sense of “ain’t nobody gonna tell me what to do” Who or where might we find the authority, the motivation to follow God‘s mission?
@@ -64,13 +67,14 @@ Of course that adage needs to be reworked since checkbooks are obsolete. But the
 The Ninevites heard God in Jonah's voice, even though he acted the coward and smelled fishy. Jesus's disciples heard the voice of authority in what today we might call a union organiser.
 
 If God were to speak to one in our midst, how would we recognize it?
+
 ## Response
 
 I'm full of questions. Any of you who know me will know that's normal for me. I will make some suggestions in response to my questions. But who am I that you would pay any attention to me?
 
 1. Listen in unexpected ways. Listen in the silence. Listen in the shower. Those are two ways I listen. But I've heard God in clouds. In a bird flying out of a woman's hair. I've seen God in 3 Inuit children playing in the water at the beach. (The water had ice flowing in it.) 
 2. Pay attention precisely to those who are unlike you. That's why getting outside of our comfort zones is so important. If the message we get sounds too much like ourselves -- we might well have missed it.
-3. Respect those who have gone before and honor and protect those who will come after. The past has much to teach us -- but it is often a dead end for us. What we do today is not really for our comfort and please. It is for the generation to come. (Shema, yisrael, adonai eloheni, adonai echad. *You shall love the L-rd your [G‑d](https://www.chabad.org/library/article_cdo/aid/433240/jewish/God.htm "God in Judaism") with all your heart, with all your soul, and with all your might. And these words which I command you today shall be upon your heart. You shall teach them thoroughly to your children, and you shall speak of them when you sit in your house and when you walk on the road, when you lie down and when you rise.*)
+3. Respect those who have gone before and honor and protect those who will come after. The past has much to teach us -- but it is often a dead end for us. What we do today is not really for our comfort and pleaseure. It is for the generation to come. (Shema, yisrael, adonai eloheni, adonai echad. *You shall love the L-rd your [G‑d](https://www.chabad.org/library/article_cdo/aid/433240/jewish/God.htm "God in Judaism") with all your heart, with all your soul, and with all your might. And these words which I command you today shall be upon your heart. You shall teach them thoroughly to your children, and you shall speak of them when you sit in your house and when you walk on the road, when you lie down and when you rise.*)
 
 I could go on. But it's not about me. "Only you can prevent forest fires", Smokey said to us when we were growing up.
 
