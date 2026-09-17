@@ -1,3 +1,8 @@
+---
+title: Homily for Proper 20
+date: September 20, 2026
+author: Dale Hathaway
+
 ## Opening
 
 It’s amazing to me to think that just a month ago I was standing behind a church in Seydisfjordur, Iceland. A tiny village of a little over 600 people on the north-eastern side of the island nation. Until fairly recently it was a major town on the island, being a good distribution point for the fishing which was the main business of the population.
