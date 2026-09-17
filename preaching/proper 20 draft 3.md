@@ -2,6 +2,7 @@
 title: Homily for Proper 20
 date: September 20, 2026
 author: Dale Hathaway
+---
 
 ## Opening
 
