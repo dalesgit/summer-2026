@@ -12,6 +12,7 @@ config.set("plugs", {
 
 ```space-lua
 -- managed-by: configuration-manager
+config.set("journal.prefix", "journal/")
 command.update { name = "Open Command Palette", key = "Alt-/" }
 command.update { name = "Journal: Picker", key = "Alt-j" }
 command.update { name = "Navigate: Document Picker", key = "Alt-o" }
