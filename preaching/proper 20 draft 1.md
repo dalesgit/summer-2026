@@ -67,3 +67,18 @@ When I look around I see signs that things are amiss. For me it was more obvious
 
 If we have eyes to see and ears to hear ... But it appears more and more that we don’t have eyes and ears, because we have covered them up.
 
+What does it take? 
+
+---
+
+Retell the parable from the point of view of American politics. Union busting. Who deserves. No benefits for immigrants.
+
+What does this text from 2000 years 2700 years ago have to do with me.
+
+All on this room are united on having heard or intuited something that spoke to us or moved us.
+
+Do we come to be comforted.
+
+Our iceberg is melting. The varied responses. Forms of denial. Forestalling. Resistance to authority.
+
+
