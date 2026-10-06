@@ -1,3 +1,4 @@
+## Lessons
 **Hebrew Scriptures**
 - [Wisdom of Solomon 6:12-16_or_](https://lectionarypage.net/YearA_RCL/Pentecost/AProp27_RCL.html#ot2) 
 - [Amos 5:18-24](https://lectionarypage.net/YearA_RCL/Pentecost/AProp27_RCL.html#ot3)
