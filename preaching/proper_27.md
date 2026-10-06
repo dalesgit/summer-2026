@@ -22,3 +22,4 @@ Jesus said, “Then the kingdom of heaven will be like this. Ten bridesmaids too
 - end-times
 - what happens after you die
 - surprise -- even at the end
+- Last Tuesday was the election
