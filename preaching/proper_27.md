@@ -1,3 +1,4 @@
+
 ## Lessons
 **Hebrew Scriptures**
 - [Wisdom of Solomon 6:12-16_or_](https://lectionarypage.net/YearA_RCL/Pentecost/AProp27_RCL.html#ot2) 
@@ -14,4 +15,10 @@ We do not want you to be uninformed, brothers and sisters, about those who have 
 
 ### Matthew 25:1-13
 
-Jesus said, “Then the kingdom of heaven will be like this. Ten bridesmaids took their lamps and went to meet the bridegroom. Five of them were foolish, and five were wise. When the foolish took their lamps, they took no oil with them; but the wise took flasks of oil with their lamps. As the bridegroom was delayed, all of them became drowsy and slept. But at midnight there was a shout, ‘Look! Here is the bridegroom! Come out to meet him.’ Then all those bridesmaids got up and trimmed their lamps. The foolish said to the wise, ‘Give us some of your oil, for our lamps are going out.’ But the wise replied, ‘No! there will not be enough for you and for us; you had better go to the dealers and buy some for yourselves.’ And while they went to buy it, the bridegroom came, and those who were ready went with him into the wedding banquet; and the door was shut. Later the other bridesmaids came also, saying, ‘Lord, lord, open to us.’ But he replied, ‘Truly I tell you, I do not know you.’ Keep awake therefore, for you know neither the day nor the hour.”
+Jesus said, “Then the kingdom of heaven will be like this. Ten bridesmaids took their lamps and went to meet the bridegroom. Five of them were foolish, and five were wise. When the foolish took their lamps, they took no oil with them; but the wise took flasks of oil with their lamps. As the bridegroom was delayed, all of them became drowsy and slept. But at midnight there was a shout, ‘Look! Here is the bridegroom! Come out to meet him.’ Then all those bridesmaids got up and trimmed their lamps. The foolish said to the wise, ‘Give us some of your oil, for our lamps are going out.’ But the wise replied, ‘No! there will not be enough for you and for us; you had better go to the dealers and buy some for yourselves.’ And while they went to buy it, the bridegroom came, and those who were ready went with him into the wedding banquet; and the door was shut. Later the other bridesmaids came also, saying, ‘Lord, lord, open to us.’ But he replied, ‘Truly I tell you, I do not know you.’ **Keep awake therefore, for you know neither the day nor the hour**.”
+
+## themes:
+
+- end-times
+- what happens after you die
+- surprise -- even at the end
