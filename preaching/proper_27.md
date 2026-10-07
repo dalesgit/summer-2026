@@ -28,3 +28,4 @@ Jesus said, “Then the kingdom of heaven will be like this. Ten bridesmaids too
     + "Midnight Mass"
     + Colbert's questions (on his last episode he answered for himself)
     + MPS someone on Substack
+  + MPS talk with group about “scaffolding” -- what we think when
