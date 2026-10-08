@@ -16,9 +16,7 @@ SEP 02, 2026
 
 162 291 Sh
 
-Under the false pretense of protecting the border and removing “ the worst of the
-
-worst ” undocumented immigrants, the Trump regime has unleashed a torrent of violence and lawlessness against hardworking immigrants. It has torn apart familie eclipsed previous administrations in the number of deaths and medical emergencie those held in ICE custody, and killed innocent Americans on our streets. 1,355 9/11/26, 7:03 PM Americans Reject ICE Hellscape: Trump ’ s ethnic cleansing and terror backfire
+Under the false pretense of protecting the border and removing “ the worst of the worst ” undocumented immigrants, the Trump regime has unleashed a torrent of violence and lawlessness against hardworking immigrants. It has torn apart familie eclipsed previous administrations in the number of deaths and medical emergencie those held in ICE custody, and killed innocent Americans on our streets. 1,355 9/11/26, 7:03 PM Americans Reject ICE Hellscape: Trump ’ s ethnic cleansing and terror backfire
 
 https://www.contrariannews.org/p/americansrejecticehellscapetrumps?r=xm4gl&utm\_ medium=ios&triedRedirect= true 1/7
 
