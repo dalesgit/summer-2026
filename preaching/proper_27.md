@@ -23,3 +23,9 @@ Jesus said, “Then the kingdom of heaven will be like this. Ten bridesmaids too
 - what happens after you die
 - surprise -- even at the end
 - Last Tuesday was the election
+- Movies asking the question "What happens when you die?"
+    + "Always"
+    + "Midnight Mass"
+    + Colbert's questions (on his last episode he answered for himself)
+    + MPS someone on Substack
+  + MPS talk with group about “scaffolding” -- what we think when
