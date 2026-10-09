@@ -1,3 +1,5 @@
+
+
 ---
 title: "It’s not just the Odyssey effect: poetry is booming because it’s the only language for these times of violence and chaos"
 source: "https://www.theguardian.com/commentisfree/2026/aug/10/poetry-boom-language-violence-chaos-odyssey-ukraine-gaza"
