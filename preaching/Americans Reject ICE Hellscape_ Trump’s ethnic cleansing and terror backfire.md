@@ -1,12 +1,6 @@
 JEN RUBIN' S COLUMNS
 
-## Americans Reject ICE Hellscape: Trump
-
-## ’
-
-## s ethnic
-
-## cleansing and terror backfire
+## Americans Reject ICE Hellscape: Trump’s ethniccleansing and terror backfire
 
 \* 62 Days to the Midterms\*
 
