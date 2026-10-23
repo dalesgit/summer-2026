@@ -8,3 +8,5 @@ or
 
 - after 9/11
 - e.g. after murder Lloyd in Minneapolis
+
+cf. dreaming awake on this date in Joplin for various sermons
