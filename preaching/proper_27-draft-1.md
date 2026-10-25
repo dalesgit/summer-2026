@@ -18,3 +18,8 @@ Sermons preached after election:
 - e.g. after murder Lloyd in Minneapolis
 
 cf. dreaming awake on this date in Joplin for various sermons
+
+[[preaching/things-know]]
+[[preaching/Preaching as circular not linear]]
+[[preaching/meet Linda 4-22]]
+[[preaching/Things I know experientially]]
