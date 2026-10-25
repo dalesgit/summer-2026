@@ -3,6 +3,7 @@
 Sermons preached after election: 
 - Obama
 - Trump 1
+- Trump 2?
 
 or
 
