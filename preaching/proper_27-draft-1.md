@@ -12,7 +12,7 @@ Sermons preached after election:
 - 2021 transferred All Saints to that Sunday (when Nov. 1 is on Monday)
 - St. Paul’s, SC: Nov. 14, 2016 [[preaching/election-16]]
 
-or
+**or**
 
 - after 9/11
 - e.g. after murder Lloyd in Minneapolis
