@@ -9,6 +9,7 @@ Sermons preached after election:
 - Spartanburg Nov. 11, 18
 - Palm Harbor All Saints 23
 - 2021 transferred All Saints to that Sunday
+- St. Paul’s, SC: Nov. 14, 2016 
 
 or
 
