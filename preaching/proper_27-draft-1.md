@@ -6,6 +6,7 @@ Sermons preached after election:
 - Trump 2?
 
 - Palm Harbor Nov. 11, 24 (B)
+- Spartanburg Nov. 11, 18
 - 
 
 or
