@@ -1,7 +1,7 @@
 [[preaching/proper_27]]
 
 Sermons preached after election: 
-- Obama 
+- Obama ?
 - Trump 1
 - Trump 2?
 
