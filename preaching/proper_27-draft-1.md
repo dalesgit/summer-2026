@@ -5,7 +5,8 @@ Sermons preached after election:
 - Trump 1
 - Trump 2?
 
-- Palm Harbor
+- Palm Harbor Nov. 11, 24 (B)
+- 
 
 or
 
