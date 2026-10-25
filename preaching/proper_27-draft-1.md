@@ -1,10 +1,11 @@
 [[preaching/proper_27]]
 
 Sermons preached after election: 
-- Obama
+- Obama 
 - Trump 1
 - Trump 2?
 
+**26-a**, 25-c, **24-b**, 23-a, 22-c, 21-b, 20-a, 19-c, **18-b**, 17-a, 16-c
 - Palm Harbor Nov. 11, 24 (B)
 - Spartanburg Nov. 11, 18
 - Palm Harbor All Saints 23
