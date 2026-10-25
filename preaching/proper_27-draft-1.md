@@ -21,5 +21,5 @@ cf. dreaming awake on this date in Joplin for various sermons
 
 [[preaching/things-know]]
 [[preaching/Preaching as circular not linear]]
-[[preaching/meet Linda 4-22]]
+[[preaching/meet Linda 4-22]] Here I talk of what I seek never to do. Never telling an un-truth -- cf. esp. one I know experientially not to be otherwise.
 [[preaching/Things I know experientially]]
