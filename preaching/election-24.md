@@ -7,7 +7,7 @@ St. Alfred's Episcopal church
 Nov. 9-10, 2024
 
 > After 42 years of ministry, this past Sunday's was among the most challenging sermons I ever had to prepare and deliver. It can be viewed at [https://boxcast.tv/highlights/st-alfreds-episcopal-church-sunday-holy-eucharist-rite-2-syur7m0hxikht6lj1phm/pggokxirk3vhysidsow7/sp7txlsd8q19tvifjuyv](https://boxcast.tv/highlights/st-alfreds-episcopal-church-sunday-holy-eucharist-rite-2-syur7m0hxikht6lj1phm/pggokxirk3vhysidsow7/sp7txlsd8q19tvifjuyv).
-
+ 
 ## Opening
 
 We had an election this past week. You may have noticed. Wednesday brought a lot of intense emotions across our country – but, of course, the emotions varied a lot because it was win/lose situation. I felt it. But I did anticipate it. I have been thinking about this sermon for weeks now. I thought about previous occasions when I was called upon to preach after the nation had experienced something intense. I thought about the charge I accepted on the occasion of my ordination, that I preach the Gospel to all people, regardless of any distinction other than that they were children of God. The bishop's words to me were, in part ...
