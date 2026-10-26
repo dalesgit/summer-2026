@@ -17,6 +17,8 @@
 ## Proverbial sayings
 
 - “Sawhorses” ? what is the proverb? Some old standards don’t work any more. Some are long-lasting.
+- [200+ Common Proverbs in English with Meaning and Example](https://lemongrad.com/proverbs-with-meanings-and-examples/)
+  - some proverbial workhorses
 - [[preaching/Why Old_Proverbs_Dont_Apply_Anymore]]
   - https://fee.org/articles/why-old-proverbs-dont-apply-anymore/ Proverbs have served as common sense guidance for millennia. However, as every student of history knows, there are times when logic flees in the face of hysteria, and the world seems topsy-turvy. The ‘90s are such a time.
 - [Browse Quotes by Topic  Wise Sayings](https://www.wisesayings.com/quote-topics/)
