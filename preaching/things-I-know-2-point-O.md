@@ -2,12 +2,13 @@
 
 ## Environmental changes
 - Northwest Passage is now open
-  - St. Mary’s Glacier is gone
+- St. Mary’s Glacier is gone
 
 ## Once learned … can’t unlearn
 - The Holocaust changed the way Christians must read the relationship OT to Gospel
 - “pretending” “magical thinking” “nostalgia” are not foundations to build on
 - **language** “can’t set foot in the same river”
+- That ship has sailed
 
 ## Paradox (not new) and Universe
 - Light is both particle and wave
@@ -15,7 +16,7 @@
 
 ## Proverbial sayings
 
-- “Sawhorses” ? what is the proverb. The old standards don’t work any more.
+- “Sawhorses” ? what is the proverb? Some old standards don’t work any more. Some are long-lasting.
 - [[preaching/Why Old_Proverbs_Dont_Apply_Anymore]]
   - https://fee.org/articles/why-old-proverbs-dont-apply-anymore/ Proverbs have served as common sense guidance for millennia. However, as every student of history knows, there are times when logic flees in the face of hysteria, and the world seems topsy-turvy. The ‘90s are such a time.
 - [Browse Quotes by Topic  Wise Sayings](https://www.wisesayings.com/quote-topics/)
