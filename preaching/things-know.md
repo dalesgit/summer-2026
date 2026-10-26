@@ -10,7 +10,7 @@
 - Things I Know
 - The point is gratitude
 
-
+Cf. [[preaching/things-I-know-2-point-O]]
 
 
 1st April 2020
