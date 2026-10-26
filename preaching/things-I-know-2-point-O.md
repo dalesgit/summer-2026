@@ -17,3 +17,4 @@
   - [Home  learnconversations.com](https://learnconversations.com/)
     - 
 - [[preaching/things_that_changed_everything]]
+- [[preaching/golden_age_proverbs]]
