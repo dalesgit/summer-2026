@@ -6,4 +6,4 @@
 - “Sawhorses” ? what is the proverb. The old standards don’t work any more.
 - “pretending” “magical thinking” “nostalgia” are not foundations to build on
 - Light is both particle and wave
-- God is either the God who made Quazars
+- God is either the God who made quasars and quarks, the God who was at the Big Bang ()
