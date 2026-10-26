@@ -14,3 +14,4 @@
 - [Lost Proverbs and Phrases from History 200+ Forgotten Sayings That Still Hit Hard Today   learnconversations.com](https://learnconversations.com/lost-proverbs-and-phrases-from-history/)
   - [Lost proverbs and phrases](https://learnconversations.com/forgotten-old-english-sayings-no-one-remembers/) from history have a strange kind of magic. They sound unfamiliar at first—sometimes even odd—but once you understand them, they hit harder than most modern expressions. These are the lines people once used to warn, flirt, joke, and speak truth without wasting words.
   - Language has gotten faster, simpler, and sometimes flatter. In the process, we’ve quietly dropped sayings that were sharper, funnier, and far more expressive. Bringing them back isn’t about sounding old-fashioned—it’s about saying things in a way people actually remember.
+- [[preaching/things_that_changed_everything]]
