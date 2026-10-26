@@ -1,4 +1,4 @@
-\---
+---
 title: "Why Old Proverbs Dont Apply Anymore"
 author: "Michael Bixby Dudley"
 site: "Foundation for Economic Education"
@@ -6,7 +6,7 @@ source: "https://fee.org/articles/why-old-proverbs-dont-apply-anymore/"
 domain: "fee.org"
 language: "en-US"
 description: "Mr. Dudley resides in Hot Springs, Arkansas."
-word\_count: 881
+word_count: 881
 ---
 
 \*Mr. Dudley resides in Hot Springs, Arkansas.\*
