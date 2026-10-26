@@ -40,7 +40,7 @@ Conversely, many seemingly timeless proverbs are newer than you might imagine. �
 
 An impressive amount of legwork has gone into the search for earliest attestations, and yet this work can never be considered complete, as the ongoing digitization of old publications allows “first” dates to be pushed back ever further. A few proverbs in the dictionary may even predate the editors’ arbitrary 1900 cutoff for the modern era. The word sleuth Barry Popik has already noted that “The dinner bell is always in tune,” dated to 1938 in the book, shows up in 1881 with the nonstandard spelling, “De dinner-bell’s always in chune.” (It can join the list in the dictionary’s appendix of proverbs that the compilers thought were “modern” but turned out to have longer histories.)
 
-Recognizing that the search for early information on proverbs is unending, the editors are launching a website (www.yalebooks.com/modernproverbs) ^1 where readers can contribute their own historical research and suggest additional proverbs that this edition might have missed. It’s a fitting acknowledgment that a single compendium of proverbial language will never provide a final, definitive statement. Proverbs represent a kind of dynamic folklore, resonating with the past but constantly reinvigorated in the present. As Mark Twain didn’t say, though we wish he did, “History never repeats itself, but it rhymes.”
+Recognizing that the search for early information on proverbs is unending, the editors are launching a website (www.yalebooks.com/modernproverbs) ^[is not a good link] where readers can contribute their own historical research and suggest additional proverbs that this edition might have missed. It’s a fitting acknowledgment that a single compendium of proverbial language will never provide a final, definitive statement. Proverbs represent a kind of dynamic folklore, resonating with the past but constantly reinvigorated in the present. As Mark Twain didn’t say, though we wish he did, “History never repeats itself, but it rhymes.”
 
 ---
 
@@ -67,5 +67,3 @@ Recognizing that the search for early information on proverbs is unending, the e
 ---
 
 Ben Zimmer is the executive producer of VisualThesaurus.com and Vocabulary.com. He can be reached at benzimmer.com/contact.
-
-^1:
