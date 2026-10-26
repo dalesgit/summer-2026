@@ -3,10 +3,12 @@
 ## Environmental changes
 - Northwest Passage is now open
   - St. Mary’s Glacier is gone
+
 ## Once learned … can’t unlearn
 - The Holocaust changed the way Christians must read the relationship OT to Gospel
 - “pretending” “magical thinking” “nostalgia” are not foundations to build on
-- **language**
+- **language** “can’t set foot in the same river”
+
 ## Paradox (not new) and Universe
 - Light is both particle and wave
 - God is either the God who made quasars and quarks, the God who was at the Big Bang (13.8 billion years ago[latest estimate]) or the God we invent is not big enough.
