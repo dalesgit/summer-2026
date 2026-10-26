@@ -11,4 +11,5 @@
   - [[preaching/Why Old_Proverbs_Dont_Apply_Anymore]]
 - [Browse Quotes by Topic  Wise Sayings](https://www.wisesayings.com/quote-topics/)
 - [List of proverbial phrases - Wikipedia](https://en.wikipedia.org/wiki/List_of_proverbial_phrases)
+- [Lost Proverbs and Phrases from History 200+ Forgotten Sayings That Still Hit Hard Today   learnconversations.com](https://learnconversations.com/lost-proverbs-and-phrases-from-history/)
 - 
