@@ -9,4 +9,6 @@
 - God is either the God who made quasars and quarks, the God who was at the Big Bang (13.8 billion years ago[latest estimate]) or the God we invent is not big enough.
 - https://fee.org/articles/why-old-proverbs-dont-apply-anymore/ Proverbs have served as common sense guidance for millennia. However, as every student of history knows, there are times when logic flees in the face of hysteria, and the world seems topsy-turvy. The ‘90s are such a time.
   - [[preaching/Why Old_Proverbs_Dont_Apply_Anymore]]
-- https://www.wisesayings.com/quote-topics/
+- [Browse Quotes by Topic  Wise Sayings](https://www.wisesayings.com/quote-topics/)
+- [List of proverbial phrases - Wikipedia](https://en.wikipedia.org/wiki/List_of_proverbial_phrases)
+- 
