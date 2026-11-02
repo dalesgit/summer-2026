@@ -29,4 +29,7 @@ Jesus said, “Then the kingdom of heaven will be like this. Ten bridesmaids too
     + Colbert's questions (on his last episode he answered for himself)
     + MPS someone on Substack
     + Peter in sermon for All Sainsts (2026)
-  + MPS talk with group about “scaffolding” -- what we think heaven will be when we were young -- but then we grow older. 
+      + This could be in response to the Thessalonians reading
+  + MPS talk with group about “scaffolding” -- what we think heaven will be when we were young -- but then we grow older.
+  + **What is the reality in which this congregation is living?** the place to start.
+  + Anglican 3-part stool? Scripture/Tradition/Experience
