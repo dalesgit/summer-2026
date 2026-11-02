@@ -28,4 +28,5 @@ Jesus said, “Then the kingdom of heaven will be like this. Ten bridesmaids too
     + "Midnight Mass"
     + Colbert's questions (on his last episode he answered for himself)
     + MPS someone on Substack
+    + Peter in sermon for All Sainsts (2026)
   + MPS talk with group about “scaffolding” -- what we think heaven will be when we were young -- but then we grow older. 
