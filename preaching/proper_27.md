@@ -33,3 +33,5 @@ Jesus said, “Then the kingdom of heaven will be like this. Ten bridesmaids too
   + MPS talk with group about “scaffolding” -- what we think heaven will be when we were young -- but then we grow older.
   + **What is the reality in which this congregation is living?** the place to start.
   + Anglican 3-part stool? Scripture/Tradition/Experience
+  + There are 2 more Sundays of **ending this year** -- reflections on end-times, apocalyptic, etc.
+    + Then as a slow-burn we begin to build from the old into what is to come (Advent)
