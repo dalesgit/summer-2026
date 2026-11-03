@@ -9,6 +9,9 @@
 - [1 Thessalonians 4:13-18](https://lectionarypage.net/YearA_RCL/Pentecost/AProp27_RCL.html#nt1)
 - [Matthew 25:1-13](https://lectionarypage.net/YearA_RCL/Pentecost/AProp27_RCL.html#gsp1)
 
+[[preaching/proper_27-draft-1]]
+[[preaching/proper_27-draft-2]]
+
 ### 1 Thessalonians 4:13-18
 
 We do not want you to be uninformed, brothers and sisters, about those who have died, so that you may not grieve as others do who have no hope. For since we believe that Jesus died and rose again, even so, through Jesus, God will bring with him those who have died. For this we declare to you by the word of the Lord, that we who are alive, who are left until the coming of the Lord, will by no means precede those who have died. For the Lord himself, with a cry of command, with the archangel's call and with the sound of God's trumpet, will descend from heaven, and the dead in Christ will rise first. Then we who are alive, who are left, will be caught up in the clouds together with them to meet the Lord in the air; and so we will be with the Lord forever. Therefore encourage one another with these words.
