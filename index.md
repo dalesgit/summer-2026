@@ -12,3 +12,5 @@ where p.created:startsWith("2026")
 order by p.created desc limit 15
 select templates.pageItem(p)
 ]]}
+
+[Hannah Arendt](<A Dense Life of Hannah Arendt Doesn’t Justify Its Prodigious Research.md>)

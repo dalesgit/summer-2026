@@ -2,5 +2,6 @@
   "interfaceFontFamily": "Baskerville",
   "textFontFamily": "Baskerville",
   "monospaceFontFamily": "Source Code Pro",
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "cssTheme": "Typewriter"
 }

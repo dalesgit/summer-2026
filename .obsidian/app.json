@@ -1,3 +1,4 @@
 {
-  "openBehavior": "file:Index-home"
+  "openBehavior": "file:Index-home",
+  "alwaysUpdateLinks": true
 }
