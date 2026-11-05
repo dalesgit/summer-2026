@@ -52,7 +52,7 @@ We think we’re right because everything we have experienced and learned in the
 Each of us is living in the skin that we have been given, with our experience, our comprehension, our abilities, such as they are.
 
 That is what God has to work with.
-## Scripture and Tradition in that context
+## Scripture Illuminates
 
 There are so many things about the world we are living in that speak and evoke for me a sense of the end times. Until very very recently, I could not have imagined the Arctic melting. What seemed secure and foundational is now shaken.
 
@@ -63,32 +63,49 @@ Amos, the prophet uses the phrase day of the Lord to describe this. "is not the 
 Paul was literally writing to Thessalonians who were grieving. They were grieving the death of their friends and family members. Paul writes to them with a vision of new life and the strength to encourage one another.
 
 Talking in stories, as Jesus is wont to do, he gives us the message to keep alert, keep awake, because you do not know the day or the hour. The foolish and wise bridesmaids are a symbol of the two kinds of people facing the end times. Those were prepared, and those who are not. We will hear that kind of message as advent begin begins in the first weeks of December.
-## Whatever shall we do with all this?
 
-Now we can turn to the scripture and find echoes and reflections of our experience. The scripture can open up for us possibilities and understandings.
+Scripture, then, helps us to find echoes and reflections of our own experience. It opens up for us possibilities and understandings. 
 
-Tradition also can give us possibilities and new understandings. The church year itself is circular not linear. Sacred time doesn’t so much have beginnings and endings the way our ordinary common time does. We think of time as something long ago or hoped for in dreams for what we want to come true in the future. 
+## Tradition illuminates
+
+Tradition can also give us possibilities and new understandings. 
+
+The church year itself is circular not linear. Sacred time doesn’t so much have beginnings and endings the way our ordinary common time does. We think of time as something long ago or hoped for in dreams for what we want to come true in the future. 
 
 Ordinary time is linear. Sacred time is circular. The beginning and the ending are found at the same place in a circle.
 
-We are just weeks away from the end of the church year. That’s why the readings for the last few weeks of the year speak in one way or another about 10 times. There are crises that must be met and prepared for. But in the wisdom we have inherited, the Church year knows that endings turn into beginnings. advent begins in three weeks.
+We are just weeks away from the end of the church year. That’s why the readings for the last few weeks of the year speak in one way or another about the **end times**. There are crises that must be met and prepared for. But in the wisdom we have inherited, the Church year knows that endings turn into beginnings. Advent begins in three weeks.
 
-Last week, father Peter in his sermon, evoked the question, what happens to us after we die? He did this in the context of All Saints, and was trying to illustrate that the Saints are still with us. There are endings, but that’s not the whole story. 
+In Fr. Peter's sermon last week, he evoked the question, "What happens to us after we die?" He did this in the context of **All Saints**, and was trying to illustrate that the **Saints** are still with us. They may be gone, but they are also present. 
 
-In a reflection on all souls day yesterday, we read a reflection that said something similar: at every funeral there are two preachers. One of them is death, but the other is Hope and the resurrection. 
+Scripture, Tradition, and Experience all teach us that God is present to us in paradox. There are endings, but that’s not the whole story. 
 
-The prayer book says something similar about funerals and death.
+In a reflection on **All Soul's** day – i.e. the day after **All Saints** day, at home we read a reflection that said something similar to what Fr. Peter was getting at. We read that, "… at every funeral there are two preachers. One of them is death, but the other is Hope and the resurrection."
 
-*The liturgy for the dead is an Easter liturgy. It finds all meaning in the resurrection. Because Jesus was raised from the dead, we too, shall be raised.*
+The prayer book says something similar about funerals and death. There is grief but also hope.
 
-*The liturgy, therefore, is characterized by joy, in the certainty that "neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord."*
+> (p. 507) *The liturgy for the dead is an Easter liturgy. It finds all meaning in the resurrection. Because Jesus was raised from the dead, we too, shall be raised.*
+>
+> *The liturgy, therefore, is characterized by joy, in the certainty that "neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord."*
+>
+> *This joy, however, does not make human grief unchristian. The very love we have for each other in Christ brings deep sorrow when we are parted by death. Jesus himself wept at the grave of his friend. So, while we rejoice that one we love has entered into the nearer presence of our Lord, we sorrow in sympathy with those who mourn. *
 
-*This joy, however, does not make human grief unchristian. The very love we have for each other in Christ brings deep sorrow when we are parted by death. Jesus himself wept at the grave of his friend. So, while we rejoice that one we love has entered into the nearer presence of our Lord, we sorrow in sympathy with those who mourn. 
-
-(p. 507)*
-
-“In my beginning is my end,” said a great poet.
+“In my beginning is my end,” said a great poet. God meets us where we live **in paradox**. Life and death, beginnings and endings, are all a part of God's creation.  
 
 ## Elections are like funerals
 
-I think election day is experienced something like a funeral. Funerals can be full of partying. An Irish wake, for example. I have experienced the way in which funerals bring families together in ways nothing else can. At the same time, something is over. Hopes and dreams are pushed out of reach. 
+Election day for me is a perfect opportunity to think about endings and beginnings. They take the outward appearance of victories and defeats. I think elections are something like funerals. They mark endings and beginnings, yes, but funerals, afterall, sad though they obviously are, can be full of partying as well. An Irish wake, for example. Families come together around funerals. At funerals we look for connections when what we feel around us is separations. 
+
+In separation, cut off from one another, our hopes and dreams are pushed out of reach. Elections are invitations to discover what binds us together when we feel the separations.
+
+Elections invite us to take the long view. There are moments of intense, victory, or defeat, but elections are a bet on a future that we do not know.
+
+> Now we see a reflection in a mirror; then we will see face-to-face. Now I know partially, but then I will know completely in the same way that I have been completely known. (1 Co. 13)
+
+The approaching end of the church year can encourage us when taking that long view to recognize that our end is our beginning. Time is not one thing after another, on and on and on … Time is circular from the perspective of eternity. The sacred -- God -- works in circular time, not linear. 
+
+Elections are like the life that we live. One day we face enormous crossroads. Decisions are right or wrong and we suffer consequences. But that's not the end of the story. Elections are symbols that the victory of God counts for everything. 
+
+Thanks be to God.
+
+
