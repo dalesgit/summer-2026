@@ -1,3 +1,9 @@
+---
+title: Proper 27a -- St. Alfred's
+date: Nov. 8, 2026
+author: Dale Hathaway
+---
+
 ## Opening 
 
 Did anyone notice that we had an election this last week? When I first saw the schedule about who is to preach and celebrate on this day I thought to myself is there some kind of conspiracy? It turns out that I was scheduled to preach on the day after election day two years ago.
