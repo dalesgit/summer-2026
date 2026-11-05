@@ -16,6 +16,7 @@ As it turns out, I was also preaching the Sunday after Donald Trump was elected 
 2. How can we be responsible for God‘s reputation in times like this?
 
 I guess that’s the kind of thing that elections do to me. I try to ask big questions.
+
 ## I’ve changed my mind about things over the years.
 
 In my early years of preaching, I pretty studiously tried to unpack the meaning of the text from the Bible first -- the scripture readings of the day -- and then try to draw lessons from them. I talked briefly the last time I preached a month ago about how I am learning to reverse the process. I think that we need to be conscious and aware of where we are today  our lived experience. Then, as a second step, turn to scripture and tradition so that they can teach us how to live in times like these.
@@ -37,6 +38,7 @@ Some centuries later, Dorothy Day looked at her Christian culture had felt convi
 These examples are rich, of course, beyond measure. But one thing I think they illustrate is the importance of confronting what is around us, Day by Day, and being open to God‘s conviction, God‘s command, God‘s instruction.
 
 Only then is it really possible to hear what scripture has to tell us. Scripture provides nurture and direction only after we engage the world in which we actually live. 
+
 ## Who are we here and now?
 
 When I look out at you.  What do I see? To begin with, I see some diversity. There are some young people and lots of older people. But mostly, I see people who are pretty similar too one another. 
@@ -58,6 +60,7 @@ We think we’re right because everything we have experienced and learned in the
 Each of us is living in the skin that we have been given, with our experience, our comprehension, our abilities, such as they are.
 
 That is what God has to work with.
+
 ## Scripture Illuminates
 
 There are so many things about the world we are living in that speak and evoke for me a sense of the end times. Until very very recently, I could not have imagined the Arctic melting. What seemed secure and foundational is now shaken.
