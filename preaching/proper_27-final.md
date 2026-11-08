@@ -29,27 +29,21 @@ Trying to apply these principles, there are a couple of things that I have concl
 
 The Bible and the tradition give us manifold examples of this kind of thing. Abraham was living a nice ordinary life in the place he called home. Then he heard God, and God said, "**I want you to leave all this behind**." The result was that he became the father of many nations, the father of several different religions. But first he had to be shaken out of the comfort of his home.
 
-Many centuries later, a man named Anthony looked around his culture, a thoroughly Christian culture, around the 300s, and like Anthony he was horrified by what he saw. God shook him from inside out and sent him off to live in the desert of Egypt. Anthony became the original **desert father** and the inspiration for countless men and women **up to the present day**.
+Many centuries later, a man named Anthony looked around his culture, a thoroughly Christian culture, around the 300s, he was horrified by what he saw. God shook him from inside out and sent him off to live in the desert of Egypt. Anthony became the original **desert father** and the inspiration for countless men and women **up to the present day**.
 
-Some centuries later, Francis looked around at his culture, and like Anthony he was horrified. He testified and administered in God‘s name to the present reality that he found himself in. People debated amongst themselves whether he was for real or not. Some rejected his rejection of the wealth and opulence around him. Others found inspiration **up to the present day**.
+Some centuries later, Francis looked around his world, and like Anthony, he was horrified by the so-called Christian culture that surrounded him. He testified and ministered in God‘s name to the present reality that he found himself in. People debated amongst themselves whether he was for real or not. Some rejected his rejection of the wealth and opulence around him. Others found inspiration **up to the present day**.
 
-Some centuries later, Dorothy Day looked at her Christian culture and felt convicted. The Christian culture around me, she thought, looks nothing like the values that Jesus himself taught in the beatitudes. She spent the last many decades of her life, offering herself and her testimony, to the poor and the least, to the sick and the suffering. An inspiration **in the present day**.
+Some centuries later, Dorothy Day looked at her Christian culture and felt convicted. The Christian culture around me, she thought, looks nothing like the values that Jesus himself taught in the Beatitudes. She spent most of her life working and writing in opposition to the Christian culture which survived on the exploitation of the poor and the least among us, of the sick and the suffering. She understood Jesus's own words to be the moral compass for Christians. She was an inspiration to many **in her present day**.
 
-These examples are rich, of course, beyond measure. But one thing I think they illustrate is the importance of confronting what is around us, **day by day**, and being open to God‘s conviction, God‘s command, God‘s instruction.
-
-Only then is it really possible to hear what scripture has to tell us. Scripture provides nurture and direction only after we engage the world in which we actually live. 
+These examples are rich, of course, beyond measure. One thing I think they illustrate is the absolute importance of confronting what is around us, **day by day**, and being open to God‘s command to leave behind the familiar and the comfortable in order to live under the values of God.
 
 ## Who are we here and now?
-
-When I look out at you "What do I see?"" To begin with, I do see some diversity. There are some young people but lots of older people. Mostly, I see people who are pretty similar to one another. 
 
 I learned many years ago that when I look out at a congregation gathered before me, there is one thing I can fairly reliably predict. Each of you has come through those doors looking for something. You are searching for something. Hoping for something. There are too many other options available to you that choosing to come here on a Sunday morning has to be deliberate.
 
 You come here from many different places. You’re probably not native to Florida. You speak English. You’re relatively wealthy, certainly by international standards.
 
 Some of you are happy some of you are sad. Some of you have lost something or anticipate a loss. Some of you are working at new beginnings. Some of you are fearful. Some of you are bold. But all of you are looking for something to satisfy, to comfort, to put into perspective, whatever it is, you’re living through.
-
-But that description barely scratches the surface of the wider and deeper reality that we find ourselves in today.
 
 I put that observation together with another thing that I have learned over the years. I’ve said it here before, because I think it’s important. It’s an insight that came to me just a handful of years ago. I am usually very cautious about saying that something is universally the case.But I think that every one of us in this room thinks that -- **we’re right.**
 
@@ -63,9 +57,9 @@ That is what God has to work with.
 
 ## Scripture Illuminates
 
-There are so many things about the world we are living in that evoke for me a sense of the end times. Until very very recently, I could not have imagined the Arctic melting. What seemed secure and foundational is now shaken.
+There are so many things about the world we are living in that evoke for me a sense of the end times. Until quite recently, I could not have imagined the Arctic melting, for example. What seemed secure and foundational is now shaken. I could go on and on about all the signs of the end times that I see, but we might have some time in the coming weeks to say more.
 
-Our readings from scripture today also reflect a keen experience of the end times approaching. 
+Our readings from scripture today reflect a keen experience of the end times approaching. 
 
 Amos, the prophet uses the phrase **Day of the Lord** to describe this. "Is not the day of the Lord darkness, not light and gloom with no brightness in it? … Let justice roll down like waters and righteousness like an ever flowing stream." 
 
@@ -91,19 +85,19 @@ Scripture, Tradition, and Experience all teach us that God is present to us in p
 
 In a reflection on **All Soul's** day – i.e. the day after **All Saints** day, at home in our daily prayer, we read a reflection that said something similar to what Fr. Peter was getting at. We read that, "… at every funeral there are two preachers. One of them is death, but the other is Hope and the resurrection."
 
-The prayer book says something similar about funerals and death. There is grief but also hope.
+The prayer book on page 507 says something similar about funerals and death. There is grief, it says, but also hope.
 
-> (p. 507) *The liturgy for the dead is an Easter liturgy. It finds all meaning in the resurrection. Because Jesus was raised from the dead, we too, shall be raised.*
+> *The liturgy for the dead is an Easter liturgy. It finds all meaning in the resurrection. Because Jesus was raised from the dead, we too, shall be raised.*
 >
 > *The liturgy, therefore, is characterized by joy, in the certainty that "neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord."*
 >
-> *This joy, however, does not make human grief unchristian. The very love we have for each other in Christ brings deep sorrow when we are parted by death. Jesus himself wept at the grave of his friend. So, while we rejoice that one we love has entered into the nearer presence of our Lord, we sorrow in sympathy with those who mourn. *
+> *This joy, however, does not make human grief unchristian. The very love we have for each other in Christ brings deep sorrow when we are parted by death. Jesus himself wept at the grave of his friend. So, while we rejoice that one we love has entered into the nearer presence of our Lord, we sorrow in sympathy with those who mourn.*
 
 “In my beginning is my end,” said a great poet. God meets us where we live **in paradox**. Life and death, beginnings and endings, are all a part of God's creation.  
 
 ## Elections are like funerals
 
-Election day for me is a perfect opportunity to think about endings and beginnings. They take the outward appearance of victories and defeats. I think elections are something like funerals. They mark endings, yes. They are sad. But funerals, sad though they obviously are, can be full of partying and joy as well. An Irish wake, for example, is not just about the sadness of grief. It involves what can only be called partying and sharing. Families come together around funerals. At funerals we look for connections when what we feel around us is **separations**. 
+Election day for me is a perfect opportunity to think about endings and beginnings. Elections take the outward appearance of victories and defeats. Further, I think elections are something like funerals. They mark endings, yes. They are sad. But funerals, sad though they obviously are, can be full of partying and joy as well. An Irish wake, for example, is not just about the sadness of grief. It involves what can only be called partying and sharing. Families come together around funerals. At funerals we look for connections when what we feel around us is **separations**. 
 
 In separation, cut off from one another, our hopes and dreams are pushed out of reach. Elections are invitations to discover what binds us together when we feel the separations.
 
