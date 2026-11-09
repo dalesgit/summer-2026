@@ -16,7 +16,7 @@ tags:
 | Sam  Kingston 64 (Is this "Kindle" above?) | And; books; DCIM; Music; Music-Google                           | 43 free                             |                                |
 | Onn 64                                     | cruise 2023, kbackup Oct 23 copied to ONN 128                   | 54 g free                           |                                |
 | ONN 128                                    | backups, backup-hp, cruise baltic                               | 80 g free                           | cruise 2023, kbackup Oct 23    |
-| Amazon 128g                                |                                                                 | 117 g free                          | Var. backups                   |
+| Amazon 128g                                |                                                                 | 117 g free                          | Var. backups. Insert this into my new server card                   |
 |                                            |                                                                 |                                     |                                |
 | Sam 8                                      |                                                                 | where                               |                                |
 | Olym 1                                     | unreadable?                                                     | adapter                             |                                |
