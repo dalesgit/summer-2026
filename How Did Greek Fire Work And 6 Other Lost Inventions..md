@@ -1,0 +1,1 @@
+[How Did Greek Fire Work? And 6 Other Lost Inventions.](https://www.nytimes.com/2026/11/09/science/lost-inventions-to-time-greek-fire-antikythera.html?smid=nytcore-ios-share)
