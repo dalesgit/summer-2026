@@ -1,5 +1,5 @@
 ---
-title: Proper 27a -- St. Alfred's
+title: Proper 27a -- St. Alfred's-draft3
 date: Nov. 8, 2026
 author: Dale Hathaway
 ---
