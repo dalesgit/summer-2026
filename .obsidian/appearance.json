@@ -3,5 +3,6 @@
   "textFontFamily": "Baskerville",
   "monospaceFontFamily": "Source Code Pro",
   "baseFontSize": 18,
-  "cssTheme": "Typewriter"
+  "cssTheme": "Typewriter",
+  "showRibbon": true
 }
